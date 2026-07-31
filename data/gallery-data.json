@@ -904,18 +904,24 @@
   "🛰MANOZOND-1 RS49S": [
     {
       "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-07-28",
+      "date": "2026-07-31",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
       "size": 40458
     },
     {
       "name": "🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ",
-      "date": "2026-07-28",
+      "date": "2026-07-31",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ.webp",
       "size": 36300
     }
   ],
   "🛰SAKHACUBE-CHOLBON RS18S": [
+    {
+      "name": "RS18S 2026-07-30 1420 UTC BD8CKF PM06DG",
+      "date": "2026-07-30",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-30 1420 UTC BD8CKF PM06DG.webp",
+      "size": 24480
+    },
     {
       "name": "RS18S 2026-07-28 1503 UTC BD8CKF OM20CQ",
       "date": "2026-07-28",
