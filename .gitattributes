@@ -1,13 +1,24 @@
-*.bat text eol=crlf
-*.cmd text eol=crlf
+# 通用兜底：让 Git 自动判断文本/二进制，仓库内统一用 LF
+* text=auto eol=lf
+
+# 明确按 LF 处理的文本类型
 *.sh text eol=lf
 *.css text eol=lf
 *.json text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+*.md text eol=lf
 .gitignore text eol=lf
 .gitattributes text eol=lf
+
+# Windows 专用脚本，保留 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制文件：禁止任何行尾转换和文本 diff
 *.png binary
 *.gif binary
 *.jpg binary
 *.jpeg binary
 *.webp binary
-* text=auto
+*.bmp binary
