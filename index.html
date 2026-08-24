@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SSTV GALLERY</title>
-    <style>
+  <meta name="generator" content="HTML Tidy for HTML5 for Windows version 5.9.20">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SSTV GALLERY</title>
+  <style>
         * {
             margin: 0;
             padding: 0;
@@ -159,25 +160,22 @@
             padding: 40px;
             color: #7f8c8d;
         }
-    </style>
+  </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>SSTV GALLERY</h1>
-            <p>Received by BG7XTQ</p>
-        </header>
-        
-        <div id="folders-container">
-            <div class="loading">正在加载图片...</div>
-        </div>
-
-        <div id="image-modal" class="modal" onclick="closeModal(event)">
-            <img id="modal-image" src="" alt="大图预览">
-        </div>
+  <div class="container">
+    <header>
+      <h1>SSTV GALLERY</h1>
+      <p>Received by BG7XTQ</p>
+    </header>
+    <div id="folders-container">
+      <div class="loading">
+        正在加载图片...
+      </div>
     </div>
-
-    <script>
+    <div id="image-modal" class="modal" onclick="closeModal(event)"><img id="modal-image" src="" alt="大图预览"></div>
+  </div>
+  <script>
         async function loadGallery() {
             try {
                 const response = await fetch('data/gallery-data.json');
@@ -242,6 +240,6 @@
 
         // 页面加载时获取数据
         loadGallery();
-    </script>
+  </script>
 </body>
 </html>
