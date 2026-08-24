@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta name="generator" content="HTML Tidy for HTML5 for Windows version 5.9.20">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SSTV GALLERY</title>
+  <meta name="description" content="业余无线电卫星 SSTV 下行图片画廊 - BG7XTQ 接收记录">
+  <meta name="color-scheme" content="dark">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📡</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
-        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
-
         :root {
             --bg: #060a0f;
             --panel: #10161d;
@@ -329,22 +332,27 @@
       <h1>SSTV GALLERY</h1>
       <p>Received by BG7XTQ</p>
     </header>
-    <div id="folders-container">
+    <main id="folders-container">
       <div class="loading">
         正在加载图片...
       </div>
+    </main>
+    <div id="image-modal" class="modal" role="dialog" aria-modal="true" aria-label="大图预览">
+      <img id="modal-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="大图预览">
     </div>
-    <div id="image-modal" class="modal" onclick="closeModal(event)"><img id="modal-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="大图预览"></div>
   </div>
   <script>
         async function loadGallery() {
             try {
                 const response = await fetch('data/gallery-data.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
                 const data = await response.json();
                 displayGallery(data);
             } catch (error) {
                 console.error('加载失败:', error);
-                document.getElementById('folders-container').innerHTML = 
+                document.getElementById('folders-container').innerHTML =
                     '<div class="loading">加载失败，请检查数据文件</div>';
             }
         }
@@ -353,19 +361,26 @@
             const container = document.getElementById('folders-container');
             container.innerHTML = '';
 
+            let folderIndex = 0;
             for (const [folderName, images] of Object.entries(data)) {
+                folderIndex++;
                 const folderSection = document.createElement('div');
                 folderSection.className = 'folder-section';
 
                 const imageCount = images.length;
+                const panelId = `folder-panel-${folderIndex}`;
 
                 folderSection.innerHTML = `
-                    <div class="folder-title collapsed" onclick="toggleFolder(this)">
+                    <div class="folder-title collapsed"
+                         role="button"
+                         tabindex="0"
+                         aria-expanded="false"
+                         aria-controls="${panelId}">
                         ${folderName} <span style="font-size: 0.85em; opacity: 0.8; margin-left: 10px;">(${imageCount})</span>
                     </div>
-                    <div class="images-container collapsed">
+                    <div id="${panelId}" class="images-container collapsed">
                         ${images.map(image => `
-                            <div class="image-item" onclick="showImage('${image.url}')">
+                            <div class="image-item" role="button" tabindex="0" data-url="${image.url}">
                                 <div class="image-wrapper">
                                     <img src="${image.url}" alt="${image.name}" loading="lazy">
                                 </div>
@@ -381,8 +396,10 @@
 
         function toggleFolder(titleElement) {
             const imagesContainer = titleElement.nextElementSibling;
+            const willCollapse = !titleElement.classList.contains('collapsed');
             titleElement.classList.toggle('collapsed');
             imagesContainer.classList.toggle('collapsed');
+            titleElement.setAttribute('aria-expanded', String(!willCollapse));
         }
 
         function showImage(url) {
@@ -392,12 +409,46 @@
             modal.classList.add('active');
         }
 
-        function closeModal(e) {
-            if (e.target.id === 'image-modal') {
-                const modal = document.getElementById('image-modal');
-                modal.classList.remove('active');
-            }
+        function closeModal() {
+            const modal = document.getElementById('image-modal');
+            modal.classList.remove('active');
         }
+
+        // 事件委托：文件夹标题展开/折叠、图片点击查看大图
+        document.getElementById('folders-container').addEventListener('click', (e) => {
+            const folderTitle = e.target.closest('.folder-title');
+            if (folderTitle) {
+                toggleFolder(folderTitle);
+                return;
+            }
+            const imageItem = e.target.closest('.image-item');
+            if (imageItem) {
+                showImage(imageItem.dataset.url);
+            }
+        });
+
+        // 键盘支持：Enter / 空格触发文件夹折叠与图片查看
+        document.getElementById('folders-container').addEventListener('keydown', (e) => {
+            if (e.key !== 'Enter' && e.key !== ' ') return;
+            const target = e.target.closest('.folder-title, .image-item');
+            if (!target) return;
+            e.preventDefault();
+            target.click();
+        });
+
+        // 点击弹窗背景关闭
+        document.getElementById('image-modal').addEventListener('click', (e) => {
+            if (e.target.id === 'image-modal') {
+                closeModal();
+            }
+        });
+
+        // Esc 键关闭弹窗
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
 
         // 页面加载时获取数据
         loadGallery();
