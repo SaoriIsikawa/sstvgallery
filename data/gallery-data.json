@@ -1,15 +1,15 @@
 {
   "ASRTU-1": [
     {
-      "name": "2025-12-18_00_48UTC_ASRTU-1",
+      "name": "2025-12-18_00-48UTC",
       "date": "2025-12-18",
-      "url": "webpimages/ASRTU-1/2025-12-18_00_48UTC_ASRTU-1.webp",
+      "url": "webpimages/ASRTU-1/2025-12-18_00-48UTC.webp",
       "size": 27440
     },
     {
-      "name": "2025-11-02_13_58UTC_ASRTU-1",
+      "name": "2025-11-02_13-58UTC",
       "date": "2025-11-02",
-      "url": "webpimages/ASRTU-1/2025-11-02_13_58UTC_ASRTU-1.webp",
+      "url": "webpimages/ASRTU-1/2025-11-02_13-58UTC.webp",
       "size": 19360
     }
   ],
@@ -113,33 +113,33 @@
       "size": 30940
     },
     {
-      "name": "2025-12-08_14_09UTC",
+      "name": "2025-12-08_14-09UTC",
       "date": "2025-12-08",
-      "url": "webpimages/ISS/2025-12-08_14_09UTC.webp",
+      "url": "webpimages/ISS/2025-12-08_14-09UTC.webp",
       "size": 41000
     },
     {
-      "name": "20251008_002658UTC",
+      "name": "20251008_082658",
       "date": "2025-10-08",
-      "url": "webpimages/ISS/20251008_002658UTC.webp",
+      "url": "webpimages/ISS/20251008_082658.webp",
       "size": 48870
     },
     {
-      "name": "20251008_003107UTC",
+      "name": "20251008_083107",
       "date": "2025-10-08",
-      "url": "webpimages/ISS/20251008_003107UTC.webp",
+      "url": "webpimages/ISS/20251008_083107.webp",
       "size": 56456
     },
     {
-      "name": "2025-10-04_02.01.11UTC",
+      "name": "2025-10-04_10.01.11",
       "date": "2025-10-04",
-      "url": "webpimages/ISS/2025-10-04_02.01.11UTC.webp",
+      "url": "webpimages/ISS/2025-10-04_10.01.11.webp",
       "size": 137196
     },
     {
-      "name": "2025-10-04_02.05.20UTC",
+      "name": "2025-10-04_10.05.20",
       "date": "2025-10-04",
-      "url": "webpimages/ISS/2025-10-04_02.05.20UTC.webp",
+      "url": "webpimages/ISS/2025-10-04_10.05.20.webp",
       "size": 42330
     },
     {
@@ -149,57 +149,57 @@
       "size": 93656
     },
     {
-      "name": "ISS_2025-Jul-18_17_58UTC",
-      "date": "2025-07-19",
-      "url": "webpimages/ISS/ISS_2025-Jul-18_17_58UTC.webp",
-      "size": 56070
-    },
-    {
-      "name": "ISS_2025-Jul-18_08_08UTC",
+      "name": "2025-07-18_08-08UTC",
       "date": "2025-07-18",
-      "url": "webpimages/ISS/ISS_2025-Jul-18_08_08UTC.webp",
+      "url": "webpimages/ISS/2025-07-18_08-08UTC.webp",
       "size": 87988
     },
     {
-      "name": "ISS_2025-Jul-17_08_56UTC",
+      "name": "2025-07-18_17-58UTC",
+      "date": "2025-07-18",
+      "url": "webpimages/ISS/2025-07-18_17-58UTC.webp",
+      "size": 56070
+    },
+    {
+      "name": "2025-07-17_08-56UTC",
       "date": "2025-07-17",
-      "url": "webpimages/ISS/ISS_2025-Jul-17_08_56UTC.webp",
+      "url": "webpimages/ISS/2025-07-17_08-56UTC.webp",
       "size": 112272
     },
     {
-      "name": "ISS_2025-Jul-15_18_47UTC",
-      "date": "2025-07-16",
-      "url": "webpimages/ISS/ISS_2025-Jul-15_18_47UTC.webp",
+      "name": "2025-07-15_18-47UTC",
+      "date": "2025-07-15",
+      "url": "webpimages/ISS/2025-07-15_18-47UTC.webp",
       "size": 95896
     },
     {
-      "name": "ISS_2025-May-05_13_58UTC",
+      "name": "2025-05-05_13-58UTC",
       "date": "2025-05-05",
-      "url": "webpimages/ISS/ISS_2025-May-05_13_58UTC.webp",
+      "url": "webpimages/ISS/2025-05-05_13-58UTC.webp",
       "size": 101762
     },
     {
-      "name": "ISS_2025-Apr-16_06_05UTC",
+      "name": "2025-04-16_06-05UTC",
       "date": "2025-04-16",
-      "url": "webpimages/ISS/ISS_2025-Apr-16_06_05UTC.webp",
+      "url": "webpimages/ISS/2025-04-16_06-05UTC.webp",
       "size": 102008
     },
     {
-      "name": "ISS_2025-Apr-15_06_54UTC",
+      "name": "2025-04-15_06-54UTC",
       "date": "2025-04-15",
-      "url": "webpimages/ISS/ISS_2025-Apr-15_06_54UTC.webp",
+      "url": "webpimages/ISS/2025-04-15_06-54UTC.webp",
       "size": 54270
     },
     {
-      "name": "ISS_2025-Apr-12_22_41UTC",
-      "date": "2025-04-13",
-      "url": "webpimages/ISS/ISS_2025-Apr-12_22_41UTC.webp",
+      "name": "2025-04-12_22-41UTC",
+      "date": "2025-04-12",
+      "url": "webpimages/ISS/2025-04-12_22-41UTC.webp",
       "size": 81570
     },
     {
-      "name": "ISS_2025-Apr-11_23_29UTC",
-      "date": "2025-04-12",
-      "url": "webpimages/ISS/ISS_2025-Apr-11_23_29UTC.webp",
+      "name": "2025-04-11_23-29UTC",
+      "date": "2025-04-11",
+      "url": "webpimages/ISS/2025-04-11_23-29UTC.webp",
       "size": 73828
     },
     {
@@ -1703,59 +1703,59 @@
   ],
   "SILVERSAT": [
     {
-      "name": "2026-03-30_12_25utc_WP2XGW_19_195bs",
+      "name": "2026-03-30_12-25UTC_WP2XGW_19_195bs",
       "date": "2026-03-30",
-      "url": "webpimages/SILVERSAT/2026-03-30_12_25utc_WP2XGW_19_195bs.webp",
+      "url": "webpimages/SILVERSAT/2026-03-30_12-25UTC_WP2XGW_19_195bs.webp",
       "size": 12300
     },
     {
-      "name": "2026-03-21_06_17utc_WP2XGW_32_195bs",
+      "name": "2026-03-21_06-17UTC_WP2XGW_32_195bs",
       "date": "2026-03-21",
-      "url": "webpimages/SILVERSAT/2026-03-21_06_17utc_WP2XGW_32_195bs.webp",
+      "url": "webpimages/SILVERSAT/2026-03-21_06-17UTC_WP2XGW_32_195bs.webp",
       "size": 5430
     },
     {
-      "name": "2026-03-11_10_16utc_WP2XGW_36_195bs",
+      "name": "2026-03-11_10-16UTC_WP2XGW_36_195bs",
       "date": "2026-03-11",
-      "url": "webpimages/SILVERSAT/2026-03-11_10_16utc_WP2XGW_36_195bs.webp",
+      "url": "webpimages/SILVERSAT/2026-03-11_10-16UTC_WP2XGW_36_195bs.webp",
       "size": 570
     },
     {
-      "name": "2026-03-06_12_53utc_WP2XGW_34_195bs",
+      "name": "2026-03-06_12-53UTC_WP2XGW_34_195bs",
       "date": "2026-03-06",
-      "url": "webpimages/SILVERSAT/2026-03-06_12_53utc_WP2XGW_34_195bs.webp",
+      "url": "webpimages/SILVERSAT/2026-03-06_12-53UTC_WP2XGW_34_195bs.webp",
       "size": 1206
     },
     {
-      "name": "2026-03-05_22_06utc_WP2XGW_33_195bs",
+      "name": "2026-03-05_22-06UTC_WP2XGW_33_195bs",
       "date": "2026-03-05",
-      "url": "webpimages/SILVERSAT/2026-03-05_22_06utc_WP2XGW_33_195bs.webp",
+      "url": "webpimages/SILVERSAT/2026-03-05_22-06UTC_WP2XGW_33_195bs.webp",
       "size": 11054
     },
     {
-      "name": "2026-03-02_14_04utc_WP2XGW_30_195bs",
+      "name": "2026-03-02_14-04UTC_WP2XGW_30_195bs",
       "date": "2026-03-02",
-      "url": "webpimages/SILVERSAT/2026-03-02_14_04utc_WP2XGW_30_195bs.webp",
+      "url": "webpimages/SILVERSAT/2026-03-02_14-04UTC_WP2XGW_30_195bs.webp",
       "size": 9910
     }
   ],
   "SONATE-2": [
     {
-      "name": "SONATE-2_2025-Apr-21_07_13UTC",
+      "name": "2025-04-21_07-13UTC",
       "date": "2025-04-21",
-      "url": "webpimages/SONATE-2/SONATE-2_2025-Apr-21_07_13UTC.webp",
+      "url": "webpimages/SONATE-2/2025-04-21_07-13UTC.webp",
       "size": 27882
     },
     {
-      "name": "SONATE-2_2025-Apr-19_06_43UTC",
+      "name": "2025-04-19_06-43UTC",
       "date": "2025-04-19",
-      "url": "webpimages/SONATE-2/SONATE-2_2025-Apr-19_06_43UTC.webp",
+      "url": "webpimages/SONATE-2/2025-04-19_06-43UTC.webp",
       "size": 25188
     },
     {
-      "name": "SONATE-2_2025-Mar-08_06_58_UTC",
+      "name": "2025-03-08_06-58_UTC",
       "date": "2025-03-08",
-      "url": "webpimages/SONATE-2/SONATE-2_2025-Mar-08_06_58_UTC.webp",
+      "url": "webpimages/SONATE-2/2025-03-08_06-58_UTC.webp",
       "size": 47012
     }
   ]
