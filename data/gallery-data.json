@@ -557,6 +557,12 @@
   ],
   "QMR-KWT-2": [
     {
+      "name": "20260820_230737",
+      "date": "2026-08-20",
+      "url": "webpimages/QMR-KWT-2/20260820_230737.webp",
+      "size": 141966
+    },
+    {
       "name": "sstv_2026-08-08_23-28-29",
       "date": "2026-08-08",
       "url": "webpimages/QMR-KWT-2/sstv_2026-08-08_23-28-29.webp",
@@ -837,6 +843,18 @@
   ],
   "UMKA-1": [
     {
+      "name": "2026-08-26_02-41UTC",
+      "date": "2026-08-26",
+      "url": "webpimages/UMKA-1/2026-08-26_02-41UTC.webp",
+      "size": 24294
+    },
+    {
+      "name": "2026-08-26_02-44UTC",
+      "date": "2026-08-26",
+      "url": "webpimages/UMKA-1/2026-08-26_02-44UTC.webp",
+      "size": 21292
+    },
+    {
       "name": "sstv_2026-08-17_22-30-03",
       "date": "2026-08-17",
       "url": "webpimages/UMKA-1/sstv_2026-08-17_22-30-03.webp",
@@ -849,27 +867,21 @@
       "size": 28090
     },
     {
-      "name": "‎2026‎-Jul-24‎_02_14utc",
+      "name": "‎2026‎-Jul-24‎_02-14UTC",
       "date": "2026-07-24",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02_14utc.webp",
+      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02-14UTC.webp",
       "size": 3954
     },
     {
-      "name": "‎2026‎-Jul-24‎_02_18utc",
+      "name": "‎2026‎-Jul-24‎_02-18UTC",
       "date": "2026-07-24",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02_18utc.webp",
+      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02-18UTC.webp",
       "size": 4978
     },
     {
-      "name": "‎2026‎-Jul-23‎_02_33utc",
+      "name": "‎2026‎-Jul-23‎_02-37UTC",
       "date": "2026-07-23",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-23‎_02_33utc.webp",
-      "size": 6354
-    },
-    {
-      "name": "‎2026‎-Jul-23‎_02_37utc",
-      "date": "2026-07-23",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-23‎_02_37utc.webp",
+      "url": "webpimages/UMKA-1/‎2026‎-Jul-23‎_02-37UTC.webp",
       "size": 5784
     },
     {
@@ -1329,12 +1341,6 @@
       "size": 30628
     },
     {
-      "name": "UMKA-1_RS40S_2025-Jul-01_14_18UTC",
-      "date": "2025-07-01",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_14_18UTC.webp",
-      "size": 37026
-    },
-    {
       "name": "UMKA-1_RS40S_2025-Jul-01_14_22UTC",
       "date": "2025-07-01",
       "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_14_22UTC.webp",
@@ -1359,22 +1365,10 @@
       "size": 35200
     },
     {
-      "name": "UMKA-1_RS40S_2025-Jun-27_13_40UTC",
-      "date": "2025-06-27",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-27_13_40UTC.webp",
-      "size": 36260
-    },
-    {
       "name": "UMKA-1_RS40S_2025-Jun-27_13_42UTC",
       "date": "2025-06-27",
       "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-27_13_42UTC.webp",
       "size": 30904
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jun-27_13_44UTC",
-      "date": "2025-06-27",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-27_13_44UTC.webp",
-      "size": 34518
     },
     {
       "name": "UMKA-1_RS40S_2025-May-31_13_34UTC",
@@ -1449,12 +1443,6 @@
       "size": 20882
     },
     {
-      "name": "UMKA-1_RS40S_2025-Apr-03_13_33UTC",
-      "date": "2025-04-03",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-03_13_33UTC.webp",
-      "size": 60012
-    },
-    {
       "name": "UMKA-1_RS40S_2025-Apr-03_13_35UTC",
       "date": "2025-04-03",
       "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-03_13_35UTC.webp",
@@ -1467,34 +1455,16 @@
       "size": 14000
     },
     {
-      "name": "UMKA-1_RS40S_2025-Apr-01_13_58_UTC",
-      "date": "2025-04-01",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-01_13_58_UTC.webp",
-      "size": 51914
-    },
-    {
       "name": "UMKA-1_RS40S_2025-Apr-01_14_03_UTC",
       "date": "2025-04-01",
       "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-01_14_03_UTC.webp",
       "size": 19594
     },
     {
-      "name": "UMKA-1_RS40S_2025-Apr-01_14_06_UTC",
-      "date": "2025-04-01",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-01_14_06_UTC.webp",
-      "size": 52806
-    },
-    {
       "name": "UMKA-1_RS40S_2025-Mar-22_02_27_UTC",
       "date": "2025-03-22",
       "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Mar-22_02_27_UTC.webp",
       "size": 30474
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Mar-22_02_29_UTC",
-      "date": "2025-03-22",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Mar-22_02_29_UTC.webp",
-      "size": 32242
     },
     {
       "name": "UMKA-1_RS40S_2025-Mar-22_12_58_UTC",
