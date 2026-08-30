@@ -1,1165 +1,19 @@
 {
-  "HyperView-1G": [
+  "239Alferov": [
     {
-      "name": "2025-10-18_14_06UTC",
-      "date": "2025-10-18",
-      "url": "webpimages/HyperView-1G/2025-10-18_14_06UTC.webp",
-      "size": 18342
-    }
-  ],
-  "ISS": [
-    {
-      "name": "2026-05-10_19.09.43",
-      "date": "2026-05-10",
-      "url": "webpimages/ISS/2026-05-10_19.09.43.webp",
-      "size": 32354
-    },
-    {
-      "name": "2026-05-10_19.04.25",
-      "date": "2026-05-10",
-      "url": "webpimages/ISS/2026-05-10_19.04.25.webp",
-      "size": 31798
-    },
-    {
-      "name": "2026-05-10_19.01.46",
-      "date": "2026-05-10",
-      "url": "webpimages/ISS/2026-05-10_19.01.46.webp",
-      "size": 34260
-    },
-    {
-      "name": "2026-05-10_19.07.04",
-      "date": "2026-05-10",
-      "url": "webpimages/ISS/2026-05-10_19.07.04.webp",
-      "size": 28484
-    },
-    {
-      "name": "20260509_195311",
-      "date": "2026-05-09",
-      "url": "webpimages/ISS/20260509_195311.webp",
-      "size": 22172
-    },
-    {
-      "name": "20260509_195550",
-      "date": "2026-05-09",
-      "url": "webpimages/ISS/20260509_195550.webp",
-      "size": 35310
-    },
-    {
-      "name": "20260508_204007",
-      "date": "2026-05-08",
-      "url": "webpimages/ISS/20260508_204007.webp",
-      "size": 35332
-    },
-    {
-      "name": "20260508_203728",
-      "date": "2026-05-08",
-      "url": "webpimages/ISS/20260508_203728.webp",
-      "size": 24650
-    },
-    {
-      "name": "20260508_204246",
-      "date": "2026-05-08",
-      "url": "webpimages/ISS/20260508_204246.webp",
-      "size": 23232
-    },
-    {
-      "name": "20260411_073133",
-      "date": "2026-04-11",
-      "url": "webpimages/ISS/20260411_073133.webp",
-      "size": 28556
-    },
-    {
-      "name": "20260411_073412",
-      "date": "2026-04-11",
-      "url": "webpimages/ISS/20260411_073412.webp",
-      "size": 30940
-    },
-    {
-      "name": "20260411_072854",
-      "date": "2026-04-11",
-      "url": "webpimages/ISS/20260411_072854.webp",
-      "size": 44508
-    },
-    {
-      "name": "2025-12-08_14-09UTC",
-      "date": "2025-12-08",
-      "url": "webpimages/ISS/2025-12-08_14-09UTC.webp",
-      "size": 41000
-    },
-    {
-      "name": "20251008_083107",
-      "date": "2025-10-08",
-      "url": "webpimages/ISS/20251008_083107.webp",
-      "size": 56456
-    },
-    {
-      "name": "20251008_082658",
-      "date": "2025-10-08",
-      "url": "webpimages/ISS/20251008_082658.webp",
-      "size": 48870
-    },
-    {
-      "name": "2025-10-04_10.01.11",
-      "date": "2025-10-04",
-      "url": "webpimages/ISS/2025-10-04_10.01.11.webp",
-      "size": 137196
-    },
-    {
-      "name": "2025-10-04_10.05.20",
-      "date": "2025-10-04",
-      "url": "webpimages/ISS/2025-10-04_10.05.20.webp",
-      "size": 42330
-    },
-    {
-      "name": "20250720_010653",
-      "date": "2025-07-20",
-      "url": "webpimages/ISS/20250720_010653.webp",
-      "size": 93656
-    },
-    {
-      "name": "2025-07-18_17-58UTC",
-      "date": "2025-07-18",
-      "url": "webpimages/ISS/2025-07-18_17-58UTC.webp",
-      "size": 56070
-    },
-    {
-      "name": "2025-07-18_08-08UTC",
-      "date": "2025-07-18",
-      "url": "webpimages/ISS/2025-07-18_08-08UTC.webp",
-      "size": 87988
-    },
-    {
-      "name": "2025-07-17_08-56UTC",
-      "date": "2025-07-17",
-      "url": "webpimages/ISS/2025-07-17_08-56UTC.webp",
-      "size": 112272
-    },
-    {
-      "name": "2025-07-15_18-47UTC",
-      "date": "2025-07-15",
-      "url": "webpimages/ISS/2025-07-15_18-47UTC.webp",
-      "size": 95896
-    },
-    {
-      "name": "2025-05-05_13-58UTC",
-      "date": "2025-05-05",
-      "url": "webpimages/ISS/2025-05-05_13-58UTC.webp",
-      "size": 101762
-    },
-    {
-      "name": "2025-04-16_06-05UTC",
-      "date": "2025-04-16",
-      "url": "webpimages/ISS/2025-04-16_06-05UTC.webp",
-      "size": 102008
-    },
-    {
-      "name": "2025-04-15_06-54UTC",
-      "date": "2025-04-15",
-      "url": "webpimages/ISS/2025-04-15_06-54UTC.webp",
-      "size": 54270
-    },
-    {
-      "name": "2025-04-12_22-41UTC",
-      "date": "2025-04-12",
-      "url": "webpimages/ISS/2025-04-12_22-41UTC.webp",
-      "size": 81570
-    },
-    {
-      "name": "2025-04-11_23-29UTC",
-      "date": "2025-04-11",
-      "url": "webpimages/ISS/2025-04-11_23-29UTC.webp",
-      "size": 73828
-    },
-    {
-      "name": "20250215_045850",
-      "date": "2025-02-15",
-      "url": "webpimages/ISS/20250215_045850.webp",
-      "size": 45890
-    },
-    {
-      "name": "20250215_050259",
-      "date": "2025-02-15",
-      "url": "webpimages/ISS/20250215_050259.webp",
-      "size": 101690
-    },
-    {
-      "name": "20250215_145254",
-      "date": "2025-02-15",
-      "url": "webpimages/ISS/20250215_145254.webp",
-      "size": 116534
-    },
-    {
-      "name": "20250214_055142",
-      "date": "2025-02-14",
-      "url": "webpimages/ISS/20250214_055142.webp",
-      "size": 77534
-    }
-  ],
-  "NANOZOND-1": [
-    {
-      "name": "2026-04-19_15-42-40UTC",
-      "date": "2026-04-19",
-      "url": "webpimages/NANOZOND-1/2026-04-19_15-42-40UTC.webp",
-      "size": 46770
-    },
-    {
-      "name": "2025-03-22_02-56UTC",
-      "date": "2025-03-22",
-      "url": "webpimages/NANOZOND-1/2025-03-22_02-56UTC.webp",
-      "size": 39426
-    },
-    {
-      "name": "2025-03-22_03-02UTC",
-      "date": "2025-03-22",
-      "url": "webpimages/NANOZOND-1/2025-03-22_03-02UTC.webp",
-      "size": 48712
-    },
-    {
-      "name": "2025-03-22_14-56UTC",
-      "date": "2025-03-22",
-      "url": "webpimages/NANOZOND-1/2025-03-22_14-56UTC.webp",
-      "size": 34526
-    }
-  ],
-  "ASRTU-1": [
-    {
-      "name": "2025-12-18_00-48UTC",
-      "date": "2025-12-18",
-      "url": "webpimages/ASRTU-1/2025-12-18_00-48UTC.webp",
-      "size": 27440
-    },
-    {
-      "name": "2025-11-02_13-58UTC",
-      "date": "2025-11-02",
-      "url": "webpimages/ASRTU-1/2025-11-02_13-58UTC.webp",
-      "size": 19360
-    }
-  ],
-  "SONATE-2": [
-    {
-      "name": "2025-04-21_07-13UTC",
-      "date": "2025-04-21",
-      "url": "webpimages/SONATE-2/2025-04-21_07-13UTC.webp",
-      "size": 27882
-    },
-    {
-      "name": "2025-04-19_06-43UTC",
-      "date": "2025-04-19",
-      "url": "webpimages/SONATE-2/2025-04-19_06-43UTC.webp",
-      "size": 25188
-    },
-    {
-      "name": "2025-03-08_06-58UTC",
-      "date": "2025-03-08",
-      "url": "webpimages/SONATE-2/2025-03-08_06-58UTC.webp",
-      "size": 47012
-    }
-  ],
-  "TUSUR-GO": [
-    {
-      "name": "TUSUR-GO_N1_2025-08-10_21-23-57,372383",
-      "date": "2025-08-10",
-      "url": "webpimages/TUSUR-GO/TUSUR-GO_N1_2025-08-10_21-23-57,372383.webp",
-      "size": 53716
-    }
-  ],
-  "SAKHACUBE-CHOLBON": [
-    {
-      "name": "sstv_2026-08-13_23-07-12",
-      "date": "2026-08-13",
-      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-13_23-07-12.webp",
-      "size": 17426
-    },
-    {
-      "name": "sstv_2026-08-13_23-09-10",
-      "date": "2026-08-13",
-      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-13_23-09-10.webp",
-      "size": 27100
-    },
-    {
-      "name": "sstv_2026-08-12_23-27-18",
-      "date": "2026-08-12",
-      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-12_23-27-18.webp",
-      "size": 32632
-    },
-    {
-      "name": "sstv_2026-08-12_23-30-20",
-      "date": "2026-08-12",
-      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-12_23-30-20.webp",
-      "size": 22526
-    },
-    {
-      "name": "20260731_232739",
-      "date": "2026-07-31",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260731_232739.webp",
-      "size": 22912
-    },
-    {
-      "name": "20260731_232439",
-      "date": "2026-07-31",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260731_232439.webp",
-      "size": 34594
-    },
-    {
-      "name": "20260730_235041",
-      "date": "2026-07-30",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260730_235041.webp",
-      "size": 35268
-    },
-    {
-      "name": "20260728_230126",
-      "date": "2026-07-28",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260728_230126.webp",
-      "size": 29158
-    },
-    {
-      "name": "2026-07-11_23.18.29",
-      "date": "2026-07-11",
-      "url": "webpimages/SAKHACUBE-CHOLBON/2026-07-11_23.18.29.webp",
-      "size": 36066
-    },
-    {
-      "name": "20260602_115043",
-      "date": "2026-06-02",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260602_115043.webp",
-      "size": 25972
-    },
-    {
-      "name": "20260602_115343",
-      "date": "2026-06-02",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260602_115343.webp",
-      "size": 31434
-    },
-    {
-      "name": "20260601_224143",
-      "date": "2026-06-01",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260601_224143.webp",
-      "size": 29116
-    },
-    {
-      "name": "20260601_223843",
-      "date": "2026-06-01",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260601_223843.webp",
-      "size": 29850
-    },
-    {
-      "name": "2026-04-26_11.10.46",
-      "date": "2026-04-26",
-      "url": "webpimages/SAKHACUBE-CHOLBON/2026-04-26_11.10.46.webp",
-      "size": 48192
-    },
-    {
-      "name": "2026-04-26_11.12.46",
-      "date": "2026-04-26",
-      "url": "webpimages/SAKHACUBE-CHOLBON/2026-04-26_11.12.46.webp",
-      "size": 47468
-    },
-    {
-      "name": "2026-04-26_11.15.47",
-      "date": "2026-04-26",
-      "url": "webpimages/SAKHACUBE-CHOLBON/2026-04-26_11.15.47.webp",
-      "size": 52336
-    },
-    {
-      "name": "20260413_230842",
-      "date": "2026-04-13",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260413_230842.webp",
-      "size": 46214
-    },
-    {
-      "name": "20260413_231142",
-      "date": "2026-04-13",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260413_231142.webp",
-      "size": 17572
-    },
-    {
-      "name": "20260413_231442",
-      "date": "2026-04-13",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260413_231442.webp",
-      "size": 28064
-    },
-    {
-      "name": "20260411_115137",
-      "date": "2026-04-11",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260411_115137.webp",
-      "size": 35982
-    },
-    {
-      "name": "20260411_115437",
-      "date": "2026-04-11",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260411_115437.webp",
-      "size": 21644
-    },
-    {
-      "name": "20260309_225543",
-      "date": "2026-03-09",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260309_225543.webp",
-      "size": 14944
-    },
-    {
-      "name": "20260308_111426",
-      "date": "2026-03-08",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260308_111426.webp",
-      "size": 16556
-    },
-    {
-      "name": "20260308_111125",
-      "date": "2026-03-08",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260308_111125.webp",
-      "size": 15962
-    },
-    {
-      "name": "20260307_233643",
-      "date": "2026-03-07",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260307_233643.webp",
-      "size": 25918
-    },
-    {
-      "name": "20260222_112029",
-      "date": "2026-02-22",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_112029.webp",
-      "size": 33546
-    },
-    {
-      "name": "20260222_111729",
-      "date": "2026-02-22",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_111729.webp",
-      "size": 20872
-    },
-    {
-      "name": "20260222_111430",
-      "date": "2026-02-22",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_111430.webp",
-      "size": 21814
-    },
-    {
-      "name": "20260222_231723",
-      "date": "2026-02-22",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_231723.webp",
-      "size": 42468
-    },
-    {
-      "name": "2026-02-21_23.41.30",
-      "date": "2026-02-21",
-      "url": "webpimages/SAKHACUBE-CHOLBON/2026-02-21_23.41.30.webp",
-      "size": 45906
-    },
-    {
-      "name": "20260215_223325",
-      "date": "2026-02-15",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260215_223325.webp",
-      "size": 59406
-    },
-    {
-      "name": "20260215_223125",
-      "date": "2026-02-15",
-      "url": "webpimages/SAKHACUBE-CHOLBON/20260215_223125.webp",
-      "size": 114646
-    }
-  ],
-  "UMKA-1": [
-    {
-      "name": "UMKA-1_RS40S_2025-Jun-28_13_27UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-28_13_27UTC.webp",
-      "size": 34416
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Mar-22_12_58_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Mar-22_12_58_UTC.webp",
-      "size": 38570
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-12_02_46UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-12_02_46UTC.webp",
-      "size": 21570
-    },
-    {
-      "name": "UMKA_RS40S_2025-Mar-09_14_01_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA_RS40S_2025-Mar-09_14_01_UTC.webp",
-      "size": 28426
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-27_13_11UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-27_13_11UTC.webp",
-      "size": 35486
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jun-28_13_29UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-28_13_29UTC.webp",
-      "size": 35200
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jul-01_14_22UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_14_22UTC.webp",
-      "size": 24888
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jul-01_02_13UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_13UTC.webp",
-      "size": 31436
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Mar-22_02_27_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Mar-22_02_27_UTC.webp",
-      "size": 30474
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-12_02_49UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-12_02_49UTC.webp",
-      "size": 20882
-    },
-    {
-      "name": "‎2026‎-Jul-24‎_02-18UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02-18UTC.webp",
-      "size": 4978
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-03_13_38UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-03_13_38UTC.webp",
-      "size": 14000
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-May-07_02_05UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-07_02_05UTC.webp",
-      "size": 24814
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-18_13_36UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-18_13_36UTC.webp",
-      "size": 34054
-    },
-    {
-      "name": "‎2026‎-07‎-18_0237utc",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/‎2026‎-07‎-18_0237utc.webp",
-      "size": 23246
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-May-31_13_34UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-31_13_34UTC.webp",
-      "size": 29706
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-May-10_01_22UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-10_01_22UTC.webp",
-      "size": 30872
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-12_02_43UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-12_02_43UTC.webp",
-      "size": 44718
-    },
-    {
-      "name": "2026-Jun-21_13_43utc",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/2026-Jun-21_13_43utc.webp",
-      "size": 31152
-    },
-    {
-      "name": "‎2026‎-Jul-24‎_02-14UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02-14UTC.webp",
-      "size": 3954
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-May-09_13_47UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-09_13_47UTC.webp",
-      "size": 33708
-    },
-    {
-      "name": "‎2026‎-Jul-23‎_02-37UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/‎2026‎-Jul-23‎_02-37UTC.webp",
-      "size": 5784
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jul-01_02_17UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_17UTC.webp",
-      "size": 36292
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-01_14_03_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-01_14_03_UTC.webp",
-      "size": 19594
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jul-01_02_15UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_15UTC.webp",
-      "size": 23628
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jun-27_13_42UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-27_13_42UTC.webp",
-      "size": 30904
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-May-09_13_44UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-09_13_44UTC.webp",
-      "size": 23912
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jul-01_14_23UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_14_23UTC.webp",
-      "size": 30870
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-03_13_35UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-03_13_35UTC.webp",
-      "size": 29922
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Jul-01_02_19UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_19UTC.webp",
-      "size": 30628
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-Apr-27_13_14UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-27_13_14UTC.webp",
-      "size": 28104
-    },
-    {
-      "name": "UMKA_RS40S_2025-Mar-08_14_09_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA_RS40S_2025-Mar-08_14_09_UTC.webp",
-      "size": 33846
-    },
-    {
-      "name": "UMKA-1_RS40S_2025-May-10_01_25UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-10_01_25UTC.webp",
-      "size": 30100
-    },
-    {
-      "name": "UMKA_RS40S_2025-Mar-08_02_08_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/UMKA-1/UMKA_RS40S_2025-Mar-08_02_08_UTC.webp",
-      "size": 24060
-    },
-    {
-      "name": "2026-08-26_02-44UTC",
-      "date": "2026-08-26",
-      "url": "webpimages/UMKA-1/2026-08-26_02-44UTC.webp",
-      "size": 21292
-    },
-    {
-      "name": "2026-08-26_02-41UTC",
-      "date": "2026-08-26",
-      "url": "webpimages/UMKA-1/2026-08-26_02-41UTC.webp",
-      "size": 24294
-    },
-    {
-      "name": "sstv_2026-08-17_22-30-03",
-      "date": "2026-08-17",
-      "url": "webpimages/UMKA-1/sstv_2026-08-17_22-30-03.webp",
-      "size": 27082
-    },
-    {
-      "name": "sstv_2026-08-17_22-32-05",
-      "date": "2026-08-17",
-      "url": "webpimages/UMKA-1/sstv_2026-08-17_22-32-05.webp",
-      "size": 28090
-    },
-    {
-      "name": "20260628_103610",
-      "date": "2026-06-28",
-      "url": "webpimages/UMKA-1/20260628_103610.webp",
-      "size": 20894
-    },
-    {
-      "name": "20260628_104120",
-      "date": "2026-06-28",
-      "url": "webpimages/UMKA-1/20260628_104120.webp",
-      "size": 24456
-    },
-    {
-      "name": "20260628_103845",
-      "date": "2026-06-28",
-      "url": "webpimages/UMKA-1/20260628_103845.webp",
-      "size": 25662
-    },
-    {
-      "name": "20260510_220427",
-      "date": "2026-05-10",
-      "url": "webpimages/UMKA-1/20260510_220427.webp",
-      "size": 19430
-    },
-    {
-      "name": "20260510_220703",
-      "date": "2026-05-10",
-      "url": "webpimages/UMKA-1/20260510_220703.webp",
-      "size": 9902
-    },
-    {
-      "name": "20260510_220940",
-      "date": "2026-05-10",
-      "url": "webpimages/UMKA-1/20260510_220940.webp",
-      "size": 21290
-    },
-    {
-      "name": "20260509_222642",
-      "date": "2026-05-09",
-      "url": "webpimages/UMKA-1/20260509_222642.webp",
-      "size": 15754
-    },
-    {
-      "name": "20260509_222442",
-      "date": "2026-05-09",
-      "url": "webpimages/UMKA-1/20260509_222442.webp",
-      "size": 16694
-    },
-    {
-      "name": "20260509_222205",
-      "date": "2026-05-09",
-      "url": "webpimages/UMKA-1/20260509_222205.webp",
-      "size": 25026
-    },
-    {
-      "name": "20260501_214540",
-      "date": "2026-05-01",
-      "url": "webpimages/UMKA-1/20260501_214540.webp",
-      "size": 62554
-    },
-    {
-      "name": "20260501_214106",
-      "date": "2026-05-01",
-      "url": "webpimages/UMKA-1/20260501_214106.webp",
-      "size": 85494
-    },
-    {
-      "name": "20260426_214336",
-      "date": "2026-04-26",
-      "url": "webpimages/UMKA-1/20260426_214336.webp",
-      "size": 41482
-    },
-    {
-      "name": "20260426_213834",
-      "date": "2026-04-26",
-      "url": "webpimages/UMKA-1/20260426_213834.webp",
-      "size": 69278
-    },
-    {
-      "name": "20260426_214100",
-      "date": "2026-04-26",
-      "url": "webpimages/UMKA-1/20260426_214100.webp",
-      "size": 25992
-    },
-    {
-      "name": "20260418_223213",
-      "date": "2026-04-18",
-      "url": "webpimages/UMKA-1/20260418_223213.webp",
-      "size": 41508
-    },
-    {
-      "name": "20260309_215243",
-      "date": "2026-03-09",
-      "url": "webpimages/UMKA-1/20260309_215243.webp",
-      "size": 31342
-    },
-    {
-      "name": "20260308_220434",
-      "date": "2026-03-08",
-      "url": "webpimages/UMKA-1/20260308_220434.webp",
-      "size": 28084
-    },
-    {
-      "name": "20260308_221050",
-      "date": "2026-03-08",
-      "url": "webpimages/UMKA-1/20260308_221050.webp",
-      "size": 91814
-    },
-    {
-      "name": "20260308_220733",
-      "date": "2026-03-08",
-      "url": "webpimages/UMKA-1/20260308_220733.webp",
-      "size": 20818
-    },
-    {
-      "name": "20260215_230724",
-      "date": "2026-02-15",
-      "url": "webpimages/UMKA-1/20260215_230724.webp",
-      "size": 97106
-    },
-    {
-      "name": "20260215_095424",
-      "date": "2026-02-15",
-      "url": "webpimages/UMKA-1/20260215_095424.webp",
-      "size": 27496
-    },
-    {
-      "name": "20260215_230447",
-      "date": "2026-02-15",
-      "url": "webpimages/UMKA-1/20260215_230447.webp",
-      "size": 125230
-    },
-    {
-      "name": "20260215_095054",
-      "date": "2026-02-15",
-      "url": "webpimages/UMKA-1/20260215_095054.webp",
-      "size": 43194
-    },
-    {
-      "name": "20260215_215654",
-      "date": "2026-02-15",
-      "url": "webpimages/UMKA-1/20260215_215654.webp",
-      "size": 23054
-    },
-    {
-      "name": "20260206_212140",
-      "date": "2026-02-06",
-      "url": "webpimages/UMKA-1/20260206_212140.webp",
-      "size": 26618
-    },
-    {
-      "name": "20260108_133741UTC",
-      "date": "2026-01-08",
-      "url": "webpimages/UMKA-1/20260108_133741UTC.webp",
-      "size": 29920
-    },
-    {
-      "name": "20260108_133951UTC",
-      "date": "2026-01-08",
-      "url": "webpimages/UMKA-1/20260108_133951UTC.webp",
-      "size": 23526
-    },
-    {
-      "name": "20260106_100838",
-      "date": "2026-01-06",
-      "url": "webpimages/UMKA-1/20260106_100838.webp",
-      "size": 20112
-    },
-    {
-      "name": "20260106_101114",
-      "date": "2026-01-06",
-      "url": "webpimages/UMKA-1/20260106_101114.webp",
-      "size": 30318
-    },
-    {
-      "name": "20260106_100601",
-      "date": "2026-01-06",
-      "url": "webpimages/UMKA-1/20260106_100601.webp",
-      "size": 31514
-    },
-    {
-      "name": "20260105_142924UTC",
-      "date": "2026-01-05",
-      "url": "webpimages/UMKA-1/20260105_142924UTC.webp",
-      "size": 30494
-    },
-    {
-      "name": "20260105_142648UTC",
-      "date": "2026-01-05",
-      "url": "webpimages/UMKA-1/20260105_142648UTC.webp",
-      "size": 25928
-    },
-    {
-      "name": "20260102_134553UTC",
-      "date": "2026-01-02",
-      "url": "webpimages/UMKA-1/20260102_134553UTC.webp",
-      "size": 22130
-    },
-    {
-      "name": "20260101_140117UTC",
-      "date": "2026-01-01",
-      "url": "webpimages/UMKA-1/20260101_140117UTC.webp",
-      "size": 24570
-    },
-    {
-      "name": "20260101_140353UTC",
-      "date": "2026-01-01",
-      "url": "webpimages/UMKA-1/20260101_140353UTC.webp",
-      "size": 37118
-    },
-    {
-      "name": "20251231_141731UTC",
-      "date": "2025-12-31",
-      "url": "webpimages/UMKA-1/20251231_141731UTC.webp",
-      "size": 31564
-    },
-    {
-      "name": "20251231_141455UTC",
-      "date": "2025-12-31",
-      "url": "webpimages/UMKA-1/20251231_141455UTC.webp",
-      "size": 42846
-    },
-    {
-      "name": "20251229_024808UTC",
-      "date": "2025-12-29",
-      "url": "webpimages/UMKA-1/20251229_024808UTC.webp",
-      "size": 25374
-    },
-    {
-      "name": "20251229_024256UTC",
-      "date": "2025-12-29",
-      "url": "webpimages/UMKA-1/20251229_024256UTC.webp",
-      "size": 30940
-    },
-    {
-      "name": "2025-11-29_13.31.34UTC",
-      "date": "2025-11-29",
-      "url": "webpimages/UMKA-1/2025-11-29_13.31.34UTC.webp",
-      "size": 38838
-    },
-    {
-      "name": "2025-11-29_13.29.34UTC",
-      "date": "2025-11-29",
-      "url": "webpimages/UMKA-1/2025-11-29_13.29.34UTC.webp",
-      "size": 44930
-    },
-    {
-      "name": "2025-11-29_13.33.34UTC",
-      "date": "2025-11-29",
-      "url": "webpimages/UMKA-1/2025-11-29_13.33.34UTC.webp",
-      "size": 34772
-    },
-    {
-      "name": "20251123_133018UTC",
-      "date": "2025-11-23",
-      "url": "webpimages/UMKA-1/20251123_133018UTC.webp",
-      "size": 32098
-    },
-    {
-      "name": "2025-11-02_14.18.48UTC",
-      "date": "2025-11-02",
-      "url": "webpimages/UMKA-1/2025-11-02_14.18.48UTC.webp",
-      "size": 39520
-    },
-    {
-      "name": "2025-11-02_14.16.48UTC",
-      "date": "2025-11-02",
-      "url": "webpimages/UMKA-1/2025-11-02_14.16.48UTC.webp",
-      "size": 17532
-    },
-    {
-      "name": "2025-10-30_13.28.41UTC",
-      "date": "2025-10-30",
-      "url": "webpimages/UMKA-1/2025-10-30_13.28.41UTC.webp",
-      "size": 44178
-    },
-    {
-      "name": "2025-10-30_13.32.41UTC",
-      "date": "2025-10-30",
-      "url": "webpimages/UMKA-1/2025-10-30_13.32.41UTC.webp",
-      "size": 37970
-    },
-    {
-      "name": "2025-10-28_14.01.20UTC",
-      "date": "2025-10-28",
-      "url": "webpimages/UMKA-1/2025-10-28_14.01.20UTC.webp",
-      "size": 44244
-    },
-    {
-      "name": "20251025_131503UTC",
-      "date": "2025-10-25",
-      "url": "webpimages/UMKA-1/20251025_131503UTC.webp",
-      "size": 67996
-    },
-    {
-      "name": "20251025_131655UTC",
-      "date": "2025-10-25",
-      "url": "webpimages/UMKA-1/20251025_131655UTC.webp",
-      "size": 83334
+      "name": "239ALFEROV_N0_2025-08-17_07_40UTC",
+      "date": "2025-08-17",
+      "url": "webpimages/239Alferov/239ALFEROV_N0_2025-08-17_07_40UTC.webp",
+      "size": 50488
     },
-    {
-      "name": "20251025_131103UTC",
-      "date": "2025-10-25",
-      "url": "webpimages/UMKA-1/20251025_131103UTC.webp",
-      "size": 64510
-    },
-    {
-      "name": "2025-10-18_13.25.36UTC",
-      "date": "2025-10-18",
-      "url": "webpimages/UMKA-1/2025-10-18_13.25.36UTC.webp",
-      "size": 18618
-    },
-    {
-      "name": "20251011_133820UTC",
-      "date": "2025-10-11",
-      "url": "webpimages/UMKA-1/20251011_133820UTC.webp",
-      "size": 57464
-    },
-    {
-      "name": "20251011_133549UTC",
-      "date": "2025-10-11",
-      "url": "webpimages/UMKA-1/20251011_133549UTC.webp",
-      "size": 73432
-    },
-    {
-      "name": "20251011_134027UTC",
-      "date": "2025-10-11",
-      "url": "webpimages/UMKA-1/20251011_134027UTC.webp",
-      "size": 70612
-    },
-    {
-      "name": "2025-10-10_13.51.30UTC",
-      "date": "2025-10-10",
-      "url": "webpimages/UMKA-1/2025-10-10_13.51.30UTC.webp",
-      "size": 16138
-    },
-    {
-      "name": "2025-10-10_13.54.00UTC",
-      "date": "2025-10-10",
-      "url": "webpimages/UMKA-1/2025-10-10_13.54.00UTC.webp",
-      "size": 23314
-    },
-    {
-      "name": "2025-10-10_13.49.00UTC",
-      "date": "2025-10-10",
-      "url": "webpimages/UMKA-1/2025-10-10_13.49.00UTC.webp",
-      "size": 33128
-    },
-    {
-      "name": "20251008_021656UTC",
-      "date": "2025-10-08",
-      "url": "webpimages/UMKA-1/20251008_021656UTC.webp",
-      "size": 30408
-    },
-    {
-      "name": "20251008_021903UTC",
-      "date": "2025-10-08",
-      "url": "webpimages/UMKA-1/20251008_021903UTC.webp",
-      "size": 28508
-    },
-    {
-      "name": "20251008_021425UTC",
-      "date": "2025-10-08",
-      "url": "webpimages/UMKA-1/20251008_021425UTC.webp",
-      "size": 34880
-    },
-    {
-      "name": "20251004_134450UTC",
-      "date": "2025-10-04",
-      "url": "webpimages/UMKA-1/20251004_134450UTC.webp",
-      "size": 35702
-    },
-    {
-      "name": "20251004_134643UTC",
-      "date": "2025-10-04",
-      "url": "webpimages/UMKA-1/20251004_134643UTC.webp",
-      "size": 38524
-    },
-    {
-      "name": "2025-08-30_02.24.31UTC",
-      "date": "2025-08-30",
-      "url": "webpimages/UMKA-1/2025-08-30_02.24.31UTC.webp",
-      "size": 24250
-    },
-    {
-      "name": "2025-08-30_02.26.55UTC",
-      "date": "2025-08-30",
-      "url": "webpimages/UMKA-1/2025-08-30_02.26.55UTC.webp",
-      "size": 35340
-    },
-    {
-      "name": "2025-08-30_02.22.43UTC",
-      "date": "2025-08-30",
-      "url": "webpimages/UMKA-1/2025-08-30_02.22.43UTC.webp",
-      "size": 27392
-    },
-    {
-      "name": "2025-08-19_13.57.43UTC_RS40S",
-      "date": "2025-08-19",
-      "url": "webpimages/UMKA-1/2025-08-19_13.57.43UTC_RS40S.webp",
-      "size": 20460
-    },
-    {
-      "name": "20250811_100834",
-      "date": "2025-08-11",
-      "url": "webpimages/UMKA-1/20250811_100834.webp",
-      "size": 105050
-    },
-    {
-      "name": "20250811_101109",
-      "date": "2025-08-11",
-      "url": "webpimages/UMKA-1/20250811_101109.webp",
-      "size": 50288
-    },
-    {
-      "name": "20250811_101309",
-      "date": "2025-08-11",
-      "url": "webpimages/UMKA-1/20250811_101309.webp",
-      "size": 52112
-    },
-    {
-      "name": "20250228_221058",
-      "date": "2025-02-28",
-      "url": "webpimages/UMKA-1/20250228_221058.webp",
-      "size": 119266
-    },
-    {
-      "name": "20250222_215031",
-      "date": "2025-02-22",
-      "url": "webpimages/UMKA-1/20250222_215031.webp",
-      "size": 114160
-    },
-    {
-      "name": "20250222_214832",
-      "date": "2025-02-22",
-      "url": "webpimages/UMKA-1/20250222_214832.webp",
-      "size": 81588
-    }
-  ],
-  "JAMX01": [
-    {
-      "name": "2026-08-30_02-48UTC_102_VQL6GB_0_640_480_4_0",
-      "date": "2026-08-30",
-      "url": "webpimages/JAMX01/2026-08-30_02-48UTC_102_VQL6GB_0_640_480_4_0.webp",
-      "size": 9838
-    }
-  ],
-  "Colibri-S": [
     {
-      "name": "COLIBRI-S_N3_2025-08-10_21-41-01,070871",
-      "date": "2025-08-10",
-      "url": "webpimages/Colibri-S/COLIBRI-S_N3_2025-08-10_21-41-01,070871.webp",
-      "size": 40592
+      "name": "239ALFEROV_N2_2025-08-17_07_40UTC",
+      "date": "2025-08-17",
+      "url": "webpimages/239Alferov/239ALFEROV_N2_2025-08-17_07_40UTC.webp",
+      "size": 46428
     }
   ],
   "ArcticSat-1": [
-    {
-      "name": "ARCTICSAT-1_RS74S_2025-Apr-01_13_03_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/ArcticSat-1/ARCTICSAT-1_RS74S_2025-Apr-01_13_03_UTC.webp",
-      "size": 22862
-    },
-    {
-      "name": "ARCTICSAT-1_RS74S_2025-Apr-12_13_36UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/ArcticSat-1/ARCTICSAT-1_RS74S_2025-Apr-12_13_36UTC.webp",
-      "size": 33050
-    },
-    {
-      "name": "20251231_1400UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/ArcticSat-1/20251231_1400UTC.webp",
-      "size": 85640
-    },
     {
       "name": "20260517_222412",
       "date": "2026-05-17",
@@ -1171,6 +25,12 @@
       "date": "2026-01-03",
       "url": "webpimages/ArcticSat-1/20260103_014105UTC.webp",
       "size": 78338
+    },
+    {
+      "name": "20251231_1400UTC",
+      "date": "2025-12-31",
+      "url": "webpimages/ArcticSat-1/20251231_1400UTC.webp",
+      "size": 85640
     },
     {
       "name": "20251227_141058UTC",
@@ -1197,28 +57,28 @@
       "size": 67886
     },
     {
-      "name": "2025-12-08_13_55UTC",
-      "date": "2025-12-08",
-      "url": "webpimages/ArcticSat-1/2025-12-08_13_55UTC.webp",
-      "size": 41838
-    },
-    {
       "name": "2025-12-08_13_50UTC",
       "date": "2025-12-08",
       "url": "webpimages/ArcticSat-1/2025-12-08_13_50UTC.webp",
       "size": 50274
     },
     {
-      "name": "20251206_135602UTC",
-      "date": "2025-12-06",
-      "url": "webpimages/ArcticSat-1/20251206_135602UTC.webp",
-      "size": 112330
+      "name": "2025-12-08_13_55UTC",
+      "date": "2025-12-08",
+      "url": "webpimages/ArcticSat-1/2025-12-08_13_55UTC.webp",
+      "size": 41838
     },
     {
       "name": "20251206_135057UTC",
       "date": "2025-12-06",
       "url": "webpimages/ArcticSat-1/20251206_135057UTC.webp",
       "size": 96512
+    },
+    {
+      "name": "20251206_135602UTC",
+      "date": "2025-12-06",
+      "url": "webpimages/ArcticSat-1/20251206_135602UTC.webp",
+      "size": 112330
     },
     {
       "name": "20251204_135605UTC",
@@ -1315,26 +175,298 @@
       "date": "2025-08-16",
       "url": "webpimages/ArcticSat-1/20250816_093551.webp",
       "size": 60660
+    },
+    {
+      "name": "ARCTICSAT-1_RS74S_2025-Apr-12_13_36UTC",
+      "date": "2025-04-13",
+      "url": "webpimages/ArcticSat-1/ARCTICSAT-1_RS74S_2025-Apr-12_13_36UTC.webp",
+      "size": 33050
+    },
+    {
+      "name": "ARCTICSAT-1_RS74S_2025-Apr-01_13_03_UTC",
+      "date": "2025-04-01",
+      "url": "webpimages/ArcticSat-1/ARCTICSAT-1_RS74S_2025-Apr-01_13_03_UTC.webp",
+      "size": 22862
+    }
+  ],
+  "ASRTU-1": [
+    {
+      "name": "2025-12-18_00-48UTC",
+      "date": "2025-12-18",
+      "url": "webpimages/ASRTU-1/2025-12-18_00-48UTC.webp",
+      "size": 27440
+    },
+    {
+      "name": "2025-11-02_13-58UTC",
+      "date": "2025-11-02",
+      "url": "webpimages/ASRTU-1/2025-11-02_13-58UTC.webp",
+      "size": 19360
+    }
+  ],
+  "Colibri-S": [
+    {
+      "name": "COLIBRI-S_N3_2025-08-10_21-41-01,070871",
+      "date": "2025-08-10",
+      "url": "webpimages/Colibri-S/COLIBRI-S_N3_2025-08-10_21-41-01,070871.webp",
+      "size": 40592
+    }
+  ],
+  "GALAPAGOS-UTE-SWSU": [
+    {
+      "name": "20260222_104719",
+      "date": "2026-02-22",
+      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_104719.webp",
+      "size": 25636
+    },
+    {
+      "name": "20260222_105031",
+      "date": "2026-02-22",
+      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_105031.webp",
+      "size": 24788
+    },
+    {
+      "name": "20260222_224936",
+      "date": "2026-02-22",
+      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_224936.webp",
+      "size": 14030
+    },
+    {
+      "name": "20260222_225250",
+      "date": "2026-02-22",
+      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_225250.webp",
+      "size": 26950
+    }
+  ],
+  "Horizon": [
+    {
+      "name": "2026-02-23_01_45utc_horizon",
+      "date": "2026-02-23",
+      "url": "webpimages/Horizon/2026-02-23_01_45utc_horizon.webp",
+      "size": 3782
+    },
+    {
+      "name": "HORIZON_N0_2026-02-21_10-09-23,927773",
+      "date": "2026-02-21",
+      "url": "webpimages/Horizon/HORIZON_N0_2026-02-21_10-09-23,927773.webp",
+      "size": 1434
+    }
+  ],
+  "HyperView-1G": [
+    {
+      "name": "2025-10-18_14_06UTC",
+      "date": "2025-10-18",
+      "url": "webpimages/HyperView-1G/2025-10-18_14_06UTC.webp",
+      "size": 18342
+    }
+  ],
+  "ISS": [
+    {
+      "name": "2026-05-10_19.01.46",
+      "date": "2026-05-10",
+      "url": "webpimages/ISS/2026-05-10_19.01.46.webp",
+      "size": 34260
+    },
+    {
+      "name": "2026-05-10_19.04.25",
+      "date": "2026-05-10",
+      "url": "webpimages/ISS/2026-05-10_19.04.25.webp",
+      "size": 31798
+    },
+    {
+      "name": "2026-05-10_19.07.04",
+      "date": "2026-05-10",
+      "url": "webpimages/ISS/2026-05-10_19.07.04.webp",
+      "size": 28484
+    },
+    {
+      "name": "2026-05-10_19.09.43",
+      "date": "2026-05-10",
+      "url": "webpimages/ISS/2026-05-10_19.09.43.webp",
+      "size": 32354
+    },
+    {
+      "name": "20260509_195311",
+      "date": "2026-05-09",
+      "url": "webpimages/ISS/20260509_195311.webp",
+      "size": 22172
+    },
+    {
+      "name": "20260509_195550",
+      "date": "2026-05-09",
+      "url": "webpimages/ISS/20260509_195550.webp",
+      "size": 35310
+    },
+    {
+      "name": "20260508_203728",
+      "date": "2026-05-08",
+      "url": "webpimages/ISS/20260508_203728.webp",
+      "size": 24650
+    },
+    {
+      "name": "20260508_204007",
+      "date": "2026-05-08",
+      "url": "webpimages/ISS/20260508_204007.webp",
+      "size": 35332
+    },
+    {
+      "name": "20260508_204246",
+      "date": "2026-05-08",
+      "url": "webpimages/ISS/20260508_204246.webp",
+      "size": 23232
+    },
+    {
+      "name": "20260411_072854",
+      "date": "2026-04-11",
+      "url": "webpimages/ISS/20260411_072854.webp",
+      "size": 44508
+    },
+    {
+      "name": "20260411_073133",
+      "date": "2026-04-11",
+      "url": "webpimages/ISS/20260411_073133.webp",
+      "size": 28556
+    },
+    {
+      "name": "20260411_073412",
+      "date": "2026-04-11",
+      "url": "webpimages/ISS/20260411_073412.webp",
+      "size": 30940
+    },
+    {
+      "name": "2025-12-08_14-09UTC",
+      "date": "2025-12-08",
+      "url": "webpimages/ISS/2025-12-08_14-09UTC.webp",
+      "size": 41000
+    },
+    {
+      "name": "20251008_082658",
+      "date": "2025-10-08",
+      "url": "webpimages/ISS/20251008_082658.webp",
+      "size": 48870
+    },
+    {
+      "name": "20251008_083107",
+      "date": "2025-10-08",
+      "url": "webpimages/ISS/20251008_083107.webp",
+      "size": 56456
+    },
+    {
+      "name": "2025-10-04_10.01.11",
+      "date": "2025-10-04",
+      "url": "webpimages/ISS/2025-10-04_10.01.11.webp",
+      "size": 137196
+    },
+    {
+      "name": "2025-10-04_10.05.20",
+      "date": "2025-10-04",
+      "url": "webpimages/ISS/2025-10-04_10.05.20.webp",
+      "size": 42330
+    },
+    {
+      "name": "20250720_010653",
+      "date": "2025-07-20",
+      "url": "webpimages/ISS/20250720_010653.webp",
+      "size": 93656
+    },
+    {
+      "name": "2025-07-18_08-08UTC",
+      "date": "2025-07-18",
+      "url": "webpimages/ISS/2025-07-18_08-08UTC.webp",
+      "size": 87988
+    },
+    {
+      "name": "2025-07-18_17-58UTC",
+      "date": "2025-07-18",
+      "url": "webpimages/ISS/2025-07-18_17-58UTC.webp",
+      "size": 56070
+    },
+    {
+      "name": "2025-07-17_08-56UTC",
+      "date": "2025-07-17",
+      "url": "webpimages/ISS/2025-07-17_08-56UTC.webp",
+      "size": 112272
+    },
+    {
+      "name": "2025-07-15_18-47UTC",
+      "date": "2025-07-15",
+      "url": "webpimages/ISS/2025-07-15_18-47UTC.webp",
+      "size": 95896
+    },
+    {
+      "name": "2025-05-05_13-58UTC",
+      "date": "2025-05-05",
+      "url": "webpimages/ISS/2025-05-05_13-58UTC.webp",
+      "size": 101762
+    },
+    {
+      "name": "2025-04-16_06-05UTC",
+      "date": "2025-04-16",
+      "url": "webpimages/ISS/2025-04-16_06-05UTC.webp",
+      "size": 102008
+    },
+    {
+      "name": "2025-04-15_06-54UTC",
+      "date": "2025-04-15",
+      "url": "webpimages/ISS/2025-04-15_06-54UTC.webp",
+      "size": 54270
+    },
+    {
+      "name": "2025-04-12_22-41UTC",
+      "date": "2025-04-12",
+      "url": "webpimages/ISS/2025-04-12_22-41UTC.webp",
+      "size": 81570
+    },
+    {
+      "name": "2025-04-11_23-29UTC",
+      "date": "2025-04-11",
+      "url": "webpimages/ISS/2025-04-11_23-29UTC.webp",
+      "size": 73828
+    },
+    {
+      "name": "20250215_045850",
+      "date": "2025-02-15",
+      "url": "webpimages/ISS/20250215_045850.webp",
+      "size": 45890
+    },
+    {
+      "name": "20250215_050259",
+      "date": "2025-02-15",
+      "url": "webpimages/ISS/20250215_050259.webp",
+      "size": 101690
+    },
+    {
+      "name": "20250215_145254",
+      "date": "2025-02-15",
+      "url": "webpimages/ISS/20250215_145254.webp",
+      "size": 116534
+    },
+    {
+      "name": "20250214_055142",
+      "date": "2025-02-14",
+      "url": "webpimages/ISS/20250214_055142.webp",
+      "size": 77534
+    }
+  ],
+  "JAMX01": [
+    {
+      "name": "2026-08-30_02-48UTC_102_VQL6GB_0_640_480_4_0",
+      "date": "2026-08-30",
+      "url": "webpimages/JAMX01/2026-08-30_02-48UTC_102_VQL6GB_0_640_480_4_0.webp",
+      "size": 9838
     }
   ],
   "Monitor-3": [
     {
-      "name": "Monitor-3_RS58S_2025-Jun-27_14_21UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/Monitor-3/Monitor-3_RS58S_2025-Jun-27_14_21UTC.webp",
-      "size": 26862
+      "name": "sstv_2026-08-03_22-32-15",
+      "date": "2026-08-03",
+      "url": "webpimages/Monitor-3/sstv_2026-08-03_22-32-15.webp",
+      "size": 33892
     },
     {
       "name": "sstv_2026-08-03_22-35-02",
       "date": "2026-08-03",
       "url": "webpimages/Monitor-3/sstv_2026-08-03_22-35-02.webp",
       "size": 26258
-    },
-    {
-      "name": "sstv_2026-08-03_22-32-15",
-      "date": "2026-08-03",
-      "url": "webpimages/Monitor-3/sstv_2026-08-03_22-32-15.webp",
-      "size": 33892
     },
     {
       "name": "20260802_225800",
@@ -1379,16 +511,276 @@
       "size": 115706
     },
     {
+      "name": "20260130_142037UTC",
+      "date": "2026-01-30",
+      "url": "webpimages/Monitor-3/20260130_142037UTC.webp",
+      "size": 122798
+    },
+    {
       "name": "20260130_142319UTC",
       "date": "2026-01-30",
       "url": "webpimages/Monitor-3/20260130_142319UTC.webp",
       "size": 76578
     },
     {
-      "name": "20260130_142037UTC",
-      "date": "2026-01-30",
-      "url": "webpimages/Monitor-3/20260130_142037UTC.webp",
-      "size": 122798
+      "name": "Monitor-3_RS58S_2025-Jun-27_14_21UTC",
+      "date": "2025-06-27",
+      "url": "webpimages/Monitor-3/Monitor-3_RS58S_2025-Jun-27_14_21UTC.webp",
+      "size": 26862
+    }
+  ],
+  "NANOZOND-1": [
+    {
+      "name": "2026-04-19_15-42-40UTC",
+      "date": "2026-04-19",
+      "url": "webpimages/NANOZOND-1/2026-04-19_15-42-40UTC.webp",
+      "size": 46770
+    },
+    {
+      "name": "2025-03-22_02-56UTC",
+      "date": "2025-03-22",
+      "url": "webpimages/NANOZOND-1/2025-03-22_02-56UTC.webp",
+      "size": 39426
+    },
+    {
+      "name": "2025-03-22_03-02UTC",
+      "date": "2025-03-22",
+      "url": "webpimages/NANOZOND-1/2025-03-22_03-02UTC.webp",
+      "size": 48712
+    },
+    {
+      "name": "2025-03-22_14-56UTC",
+      "date": "2025-03-22",
+      "url": "webpimages/NANOZOND-1/2025-03-22_14-56UTC.webp",
+      "size": 34526
+    }
+  ],
+  "OrbiCraft-Zorkiy": [
+    {
+      "name": "2025-04-12_04-37UTC",
+      "date": "2025-04-12",
+      "url": "webpimages/OrbiCraft-Zorkiy/2025-04-12_04-37UTC.webp",
+      "size": 41136
+    }
+  ],
+  "QMR-KWT-2": [
+    {
+      "name": "20260820_230737",
+      "date": "2026-08-20",
+      "url": "webpimages/QMR-KWT-2/20260820_230737.webp",
+      "size": 141966
+    },
+    {
+      "name": "sstv_2026-08-08_23-28-29",
+      "date": "2026-08-08",
+      "url": "webpimages/QMR-KWT-2/sstv_2026-08-08_23-28-29.webp",
+      "size": 38786
+    },
+    {
+      "name": "20260307_232028",
+      "date": "2026-03-07",
+      "url": "webpimages/QMR-KWT-2/20260307_232028.webp",
+      "size": 95854
+    },
+    {
+      "name": "20260225_234001",
+      "date": "2026-02-25",
+      "url": "webpimages/QMR-KWT-2/20260225_234001.webp",
+      "size": 51574
+    }
+  ],
+  "SAKHACUBE-CHOLBON": [
+    {
+      "name": "sstv_2026-08-13_23-07-12",
+      "date": "2026-08-13",
+      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-13_23-07-12.webp",
+      "size": 17426
+    },
+    {
+      "name": "sstv_2026-08-13_23-09-10",
+      "date": "2026-08-13",
+      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-13_23-09-10.webp",
+      "size": 27100
+    },
+    {
+      "name": "sstv_2026-08-12_23-27-18",
+      "date": "2026-08-12",
+      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-12_23-27-18.webp",
+      "size": 32632
+    },
+    {
+      "name": "sstv_2026-08-12_23-30-20",
+      "date": "2026-08-12",
+      "url": "webpimages/SAKHACUBE-CHOLBON/sstv_2026-08-12_23-30-20.webp",
+      "size": 22526
+    },
+    {
+      "name": "20260731_232439",
+      "date": "2026-07-31",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260731_232439.webp",
+      "size": 34594
+    },
+    {
+      "name": "20260731_232739",
+      "date": "2026-07-31",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260731_232739.webp",
+      "size": 22912
+    },
+    {
+      "name": "20260730_235041",
+      "date": "2026-07-30",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260730_235041.webp",
+      "size": 35268
+    },
+    {
+      "name": "20260728_230126",
+      "date": "2026-07-28",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260728_230126.webp",
+      "size": 29158
+    },
+    {
+      "name": "2026-07-11_23.18.29",
+      "date": "2026-07-11",
+      "url": "webpimages/SAKHACUBE-CHOLBON/2026-07-11_23.18.29.webp",
+      "size": 36066
+    },
+    {
+      "name": "20260602_115043",
+      "date": "2026-06-02",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260602_115043.webp",
+      "size": 25972
+    },
+    {
+      "name": "20260602_115343",
+      "date": "2026-06-02",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260602_115343.webp",
+      "size": 31434
+    },
+    {
+      "name": "20260601_223843",
+      "date": "2026-06-01",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260601_223843.webp",
+      "size": 29850
+    },
+    {
+      "name": "20260601_224143",
+      "date": "2026-06-01",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260601_224143.webp",
+      "size": 29116
+    },
+    {
+      "name": "2026-04-26_11.10.46",
+      "date": "2026-04-26",
+      "url": "webpimages/SAKHACUBE-CHOLBON/2026-04-26_11.10.46.webp",
+      "size": 48192
+    },
+    {
+      "name": "2026-04-26_11.12.46",
+      "date": "2026-04-26",
+      "url": "webpimages/SAKHACUBE-CHOLBON/2026-04-26_11.12.46.webp",
+      "size": 47468
+    },
+    {
+      "name": "2026-04-26_11.15.47",
+      "date": "2026-04-26",
+      "url": "webpimages/SAKHACUBE-CHOLBON/2026-04-26_11.15.47.webp",
+      "size": 52336
+    },
+    {
+      "name": "20260413_230842",
+      "date": "2026-04-13",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260413_230842.webp",
+      "size": 46214
+    },
+    {
+      "name": "20260413_231142",
+      "date": "2026-04-13",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260413_231142.webp",
+      "size": 17572
+    },
+    {
+      "name": "20260413_231442",
+      "date": "2026-04-13",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260413_231442.webp",
+      "size": 28064
+    },
+    {
+      "name": "20260411_115137",
+      "date": "2026-04-11",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260411_115137.webp",
+      "size": 35982
+    },
+    {
+      "name": "20260411_115437",
+      "date": "2026-04-11",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260411_115437.webp",
+      "size": 21644
+    },
+    {
+      "name": "20260309_225543",
+      "date": "2026-03-09",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260309_225543.webp",
+      "size": 14944
+    },
+    {
+      "name": "20260308_111125",
+      "date": "2026-03-08",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260308_111125.webp",
+      "size": 15962
+    },
+    {
+      "name": "20260308_111426",
+      "date": "2026-03-08",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260308_111426.webp",
+      "size": 16556
+    },
+    {
+      "name": "20260307_233643",
+      "date": "2026-03-07",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260307_233643.webp",
+      "size": 25918
+    },
+    {
+      "name": "20260222_111430",
+      "date": "2026-02-22",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_111430.webp",
+      "size": 21814
+    },
+    {
+      "name": "20260222_111729",
+      "date": "2026-02-22",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_111729.webp",
+      "size": 20872
+    },
+    {
+      "name": "20260222_112029",
+      "date": "2026-02-22",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_112029.webp",
+      "size": 33546
+    },
+    {
+      "name": "20260222_231723",
+      "date": "2026-02-22",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260222_231723.webp",
+      "size": 42468
+    },
+    {
+      "name": "2026-02-21_23.41.30",
+      "date": "2026-02-21",
+      "url": "webpimages/SAKHACUBE-CHOLBON/2026-02-21_23.41.30.webp",
+      "size": 45906
+    },
+    {
+      "name": "20260215_223125",
+      "date": "2026-02-15",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260215_223125.webp",
+      "size": 114646
+    },
+    {
+      "name": "20260215_223325",
+      "date": "2026-02-15",
+      "url": "webpimages/SAKHACUBE-CHOLBON/20260215_223325.webp",
+      "size": 59406
     }
   ],
   "SILVERSAT": [
@@ -1429,63 +821,741 @@
       "size": 9910
     }
   ],
-  "OrbiCraft-Zorkiy": [
+  "SONATE-2": [
     {
-      "name": "2025-04-12_04-37UTC",
+      "name": "2025-04-21_07-13UTC",
+      "date": "2025-04-21",
+      "url": "webpimages/SONATE-2/2025-04-21_07-13UTC.webp",
+      "size": 27882
+    },
+    {
+      "name": "2025-04-19_06-43UTC",
+      "date": "2025-04-19",
+      "url": "webpimages/SONATE-2/2025-04-19_06-43UTC.webp",
+      "size": 25188
+    },
+    {
+      "name": "2025-03-08_06-58UTC",
+      "date": "2025-03-08",
+      "url": "webpimages/SONATE-2/2025-03-08_06-58UTC.webp",
+      "size": 47012
+    }
+  ],
+  "TUSUR-GO": [
+    {
+      "name": "TUSUR-GO_N1_2025-08-10_21-23-57,372383",
+      "date": "2025-08-10",
+      "url": "webpimages/TUSUR-GO/TUSUR-GO_N1_2025-08-10_21-23-57,372383.webp",
+      "size": 53716
+    }
+  ],
+  "UMKA-1": [
+    {
+      "name": "sstv_2026-08-30_21-26-15",
+      "date": "2026-08-30",
+      "url": "webpimages/UMKA-1/sstv_2026-08-30_21-26-15.webp",
+      "size": 28684
+    },
+    {
+      "name": "sstv_2026-08-30_21-28-49",
+      "date": "2026-08-30",
+      "url": "webpimages/UMKA-1/sstv_2026-08-30_21-28-49.webp",
+      "size": 17668
+    },
+    {
+      "name": "2026-08-26_02-41UTC",
+      "date": "2026-08-26",
+      "url": "webpimages/UMKA-1/2026-08-26_02-41UTC.webp",
+      "size": 24294
+    },
+    {
+      "name": "2026-08-26_02-44UTC",
+      "date": "2026-08-26",
+      "url": "webpimages/UMKA-1/2026-08-26_02-44UTC.webp",
+      "size": 21292
+    },
+    {
+      "name": "sstv_2026-08-17_22-30-03",
+      "date": "2026-08-17",
+      "url": "webpimages/UMKA-1/sstv_2026-08-17_22-30-03.webp",
+      "size": 27082
+    },
+    {
+      "name": "sstv_2026-08-17_22-32-05",
+      "date": "2026-08-17",
+      "url": "webpimages/UMKA-1/sstv_2026-08-17_22-32-05.webp",
+      "size": 28090
+    },
+    {
+      "name": "‎2026‎-Jul-24‎_02-14UTC",
+      "date": "2026-07-24",
+      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02-14UTC.webp",
+      "size": 3954
+    },
+    {
+      "name": "‎2026‎-Jul-24‎_02-18UTC",
+      "date": "2026-07-24",
+      "url": "webpimages/UMKA-1/‎2026‎-Jul-24‎_02-18UTC.webp",
+      "size": 4978
+    },
+    {
+      "name": "‎2026‎-Jul-23‎_02-37UTC",
+      "date": "2026-07-23",
+      "url": "webpimages/UMKA-1/‎2026‎-Jul-23‎_02-37UTC.webp",
+      "size": 5784
+    },
+    {
+      "name": "‎2026‎-07‎-18_0237utc",
+      "date": "2026-07-18",
+      "url": "webpimages/UMKA-1/‎2026‎-07‎-18_0237utc.webp",
+      "size": 23246
+    },
+    {
+      "name": "20260628_103610",
+      "date": "2026-06-28",
+      "url": "webpimages/UMKA-1/20260628_103610.webp",
+      "size": 20894
+    },
+    {
+      "name": "20260628_103845",
+      "date": "2026-06-28",
+      "url": "webpimages/UMKA-1/20260628_103845.webp",
+      "size": 25662
+    },
+    {
+      "name": "20260628_104120",
+      "date": "2026-06-28",
+      "url": "webpimages/UMKA-1/20260628_104120.webp",
+      "size": 24456
+    },
+    {
+      "name": "2026-Jun-21_13_43utc",
+      "date": "2026-06-21",
+      "url": "webpimages/UMKA-1/2026-Jun-21_13_43utc.webp",
+      "size": 31152
+    },
+    {
+      "name": "20260510_220427",
+      "date": "2026-05-10",
+      "url": "webpimages/UMKA-1/20260510_220427.webp",
+      "size": 19430
+    },
+    {
+      "name": "20260510_220703",
+      "date": "2026-05-10",
+      "url": "webpimages/UMKA-1/20260510_220703.webp",
+      "size": 9902
+    },
+    {
+      "name": "20260510_220940",
+      "date": "2026-05-10",
+      "url": "webpimages/UMKA-1/20260510_220940.webp",
+      "size": 21290
+    },
+    {
+      "name": "20260509_222205",
+      "date": "2026-05-09",
+      "url": "webpimages/UMKA-1/20260509_222205.webp",
+      "size": 25026
+    },
+    {
+      "name": "20260509_222442",
+      "date": "2026-05-09",
+      "url": "webpimages/UMKA-1/20260509_222442.webp",
+      "size": 16694
+    },
+    {
+      "name": "20260509_222642",
+      "date": "2026-05-09",
+      "url": "webpimages/UMKA-1/20260509_222642.webp",
+      "size": 15754
+    },
+    {
+      "name": "20260501_214106",
+      "date": "2026-05-01",
+      "url": "webpimages/UMKA-1/20260501_214106.webp",
+      "size": 85494
+    },
+    {
+      "name": "20260501_214540",
+      "date": "2026-05-01",
+      "url": "webpimages/UMKA-1/20260501_214540.webp",
+      "size": 62554
+    },
+    {
+      "name": "20260426_213834",
+      "date": "2026-04-26",
+      "url": "webpimages/UMKA-1/20260426_213834.webp",
+      "size": 69278
+    },
+    {
+      "name": "20260426_214100",
+      "date": "2026-04-26",
+      "url": "webpimages/UMKA-1/20260426_214100.webp",
+      "size": 25992
+    },
+    {
+      "name": "20260426_214336",
+      "date": "2026-04-26",
+      "url": "webpimages/UMKA-1/20260426_214336.webp",
+      "size": 41482
+    },
+    {
+      "name": "20260418_223213",
+      "date": "2026-04-18",
+      "url": "webpimages/UMKA-1/20260418_223213.webp",
+      "size": 41508
+    },
+    {
+      "name": "20260309_215243",
+      "date": "2026-03-09",
+      "url": "webpimages/UMKA-1/20260309_215243.webp",
+      "size": 31342
+    },
+    {
+      "name": "20260308_220434",
+      "date": "2026-03-08",
+      "url": "webpimages/UMKA-1/20260308_220434.webp",
+      "size": 28084
+    },
+    {
+      "name": "20260308_220733",
+      "date": "2026-03-08",
+      "url": "webpimages/UMKA-1/20260308_220733.webp",
+      "size": 20818
+    },
+    {
+      "name": "20260308_221050",
+      "date": "2026-03-08",
+      "url": "webpimages/UMKA-1/20260308_221050.webp",
+      "size": 91814
+    },
+    {
+      "name": "20260215_095054",
+      "date": "2026-02-15",
+      "url": "webpimages/UMKA-1/20260215_095054.webp",
+      "size": 43194
+    },
+    {
+      "name": "20260215_095424",
+      "date": "2026-02-15",
+      "url": "webpimages/UMKA-1/20260215_095424.webp",
+      "size": 27496
+    },
+    {
+      "name": "20260215_215654",
+      "date": "2026-02-15",
+      "url": "webpimages/UMKA-1/20260215_215654.webp",
+      "size": 23054
+    },
+    {
+      "name": "20260215_230447",
+      "date": "2026-02-15",
+      "url": "webpimages/UMKA-1/20260215_230447.webp",
+      "size": 125230
+    },
+    {
+      "name": "20260215_230724",
+      "date": "2026-02-15",
+      "url": "webpimages/UMKA-1/20260215_230724.webp",
+      "size": 97106
+    },
+    {
+      "name": "20260206_212140",
+      "date": "2026-02-06",
+      "url": "webpimages/UMKA-1/20260206_212140.webp",
+      "size": 26618
+    },
+    {
+      "name": "20260108_133741UTC",
+      "date": "2026-01-08",
+      "url": "webpimages/UMKA-1/20260108_133741UTC.webp",
+      "size": 29920
+    },
+    {
+      "name": "20260108_133951UTC",
+      "date": "2026-01-08",
+      "url": "webpimages/UMKA-1/20260108_133951UTC.webp",
+      "size": 23526
+    },
+    {
+      "name": "20260106_100601",
+      "date": "2026-01-06",
+      "url": "webpimages/UMKA-1/20260106_100601.webp",
+      "size": 31514
+    },
+    {
+      "name": "20260106_100838",
+      "date": "2026-01-06",
+      "url": "webpimages/UMKA-1/20260106_100838.webp",
+      "size": 20112
+    },
+    {
+      "name": "20260106_101114",
+      "date": "2026-01-06",
+      "url": "webpimages/UMKA-1/20260106_101114.webp",
+      "size": 30318
+    },
+    {
+      "name": "20260105_142648UTC",
+      "date": "2026-01-05",
+      "url": "webpimages/UMKA-1/20260105_142648UTC.webp",
+      "size": 25928
+    },
+    {
+      "name": "20260105_142924UTC",
+      "date": "2026-01-05",
+      "url": "webpimages/UMKA-1/20260105_142924UTC.webp",
+      "size": 30494
+    },
+    {
+      "name": "20260102_134553UTC",
+      "date": "2026-01-02",
+      "url": "webpimages/UMKA-1/20260102_134553UTC.webp",
+      "size": 22130
+    },
+    {
+      "name": "20260101_140117UTC",
+      "date": "2026-01-01",
+      "url": "webpimages/UMKA-1/20260101_140117UTC.webp",
+      "size": 24570
+    },
+    {
+      "name": "20260101_140353UTC",
+      "date": "2026-01-01",
+      "url": "webpimages/UMKA-1/20260101_140353UTC.webp",
+      "size": 37118
+    },
+    {
+      "name": "20251231_141455UTC",
+      "date": "2025-12-31",
+      "url": "webpimages/UMKA-1/20251231_141455UTC.webp",
+      "size": 42846
+    },
+    {
+      "name": "20251231_141731UTC",
+      "date": "2025-12-31",
+      "url": "webpimages/UMKA-1/20251231_141731UTC.webp",
+      "size": 31564
+    },
+    {
+      "name": "20251229_024256UTC",
+      "date": "2025-12-29",
+      "url": "webpimages/UMKA-1/20251229_024256UTC.webp",
+      "size": 30940
+    },
+    {
+      "name": "20251229_024808UTC",
+      "date": "2025-12-29",
+      "url": "webpimages/UMKA-1/20251229_024808UTC.webp",
+      "size": 25374
+    },
+    {
+      "name": "2025-11-29_13.29.34UTC",
+      "date": "2025-11-29",
+      "url": "webpimages/UMKA-1/2025-11-29_13.29.34UTC.webp",
+      "size": 44930
+    },
+    {
+      "name": "2025-11-29_13.31.34UTC",
+      "date": "2025-11-29",
+      "url": "webpimages/UMKA-1/2025-11-29_13.31.34UTC.webp",
+      "size": 38838
+    },
+    {
+      "name": "2025-11-29_13.33.34UTC",
+      "date": "2025-11-29",
+      "url": "webpimages/UMKA-1/2025-11-29_13.33.34UTC.webp",
+      "size": 34772
+    },
+    {
+      "name": "20251123_133018UTC",
+      "date": "2025-11-23",
+      "url": "webpimages/UMKA-1/20251123_133018UTC.webp",
+      "size": 32098
+    },
+    {
+      "name": "2025-11-02_14.16.48UTC",
+      "date": "2025-11-02",
+      "url": "webpimages/UMKA-1/2025-11-02_14.16.48UTC.webp",
+      "size": 17532
+    },
+    {
+      "name": "2025-11-02_14.18.48UTC",
+      "date": "2025-11-02",
+      "url": "webpimages/UMKA-1/2025-11-02_14.18.48UTC.webp",
+      "size": 39520
+    },
+    {
+      "name": "2025-10-30_13.28.41UTC",
+      "date": "2025-10-30",
+      "url": "webpimages/UMKA-1/2025-10-30_13.28.41UTC.webp",
+      "size": 44178
+    },
+    {
+      "name": "2025-10-30_13.32.41UTC",
+      "date": "2025-10-30",
+      "url": "webpimages/UMKA-1/2025-10-30_13.32.41UTC.webp",
+      "size": 37970
+    },
+    {
+      "name": "2025-10-28_14.01.20UTC",
+      "date": "2025-10-28",
+      "url": "webpimages/UMKA-1/2025-10-28_14.01.20UTC.webp",
+      "size": 44244
+    },
+    {
+      "name": "20251025_131103UTC",
+      "date": "2025-10-25",
+      "url": "webpimages/UMKA-1/20251025_131103UTC.webp",
+      "size": 64510
+    },
+    {
+      "name": "20251025_131503UTC",
+      "date": "2025-10-25",
+      "url": "webpimages/UMKA-1/20251025_131503UTC.webp",
+      "size": 67996
+    },
+    {
+      "name": "20251025_131655UTC",
+      "date": "2025-10-25",
+      "url": "webpimages/UMKA-1/20251025_131655UTC.webp",
+      "size": 83334
+    },
+    {
+      "name": "2025-10-18_13.25.36UTC",
+      "date": "2025-10-18",
+      "url": "webpimages/UMKA-1/2025-10-18_13.25.36UTC.webp",
+      "size": 18618
+    },
+    {
+      "name": "20251011_133549UTC",
+      "date": "2025-10-11",
+      "url": "webpimages/UMKA-1/20251011_133549UTC.webp",
+      "size": 73432
+    },
+    {
+      "name": "20251011_133820UTC",
+      "date": "2025-10-11",
+      "url": "webpimages/UMKA-1/20251011_133820UTC.webp",
+      "size": 57464
+    },
+    {
+      "name": "20251011_134027UTC",
+      "date": "2025-10-11",
+      "url": "webpimages/UMKA-1/20251011_134027UTC.webp",
+      "size": 70612
+    },
+    {
+      "name": "2025-10-10_13.49.00UTC",
+      "date": "2025-10-10",
+      "url": "webpimages/UMKA-1/2025-10-10_13.49.00UTC.webp",
+      "size": 33128
+    },
+    {
+      "name": "2025-10-10_13.51.30UTC",
+      "date": "2025-10-10",
+      "url": "webpimages/UMKA-1/2025-10-10_13.51.30UTC.webp",
+      "size": 16138
+    },
+    {
+      "name": "2025-10-10_13.54.00UTC",
+      "date": "2025-10-10",
+      "url": "webpimages/UMKA-1/2025-10-10_13.54.00UTC.webp",
+      "size": 23314
+    },
+    {
+      "name": "20251008_021425UTC",
+      "date": "2025-10-08",
+      "url": "webpimages/UMKA-1/20251008_021425UTC.webp",
+      "size": 34880
+    },
+    {
+      "name": "20251008_021656UTC",
+      "date": "2025-10-08",
+      "url": "webpimages/UMKA-1/20251008_021656UTC.webp",
+      "size": 30408
+    },
+    {
+      "name": "20251008_021903UTC",
+      "date": "2025-10-08",
+      "url": "webpimages/UMKA-1/20251008_021903UTC.webp",
+      "size": 28508
+    },
+    {
+      "name": "20251004_134450UTC",
+      "date": "2025-10-04",
+      "url": "webpimages/UMKA-1/20251004_134450UTC.webp",
+      "size": 35702
+    },
+    {
+      "name": "20251004_134643UTC",
+      "date": "2025-10-04",
+      "url": "webpimages/UMKA-1/20251004_134643UTC.webp",
+      "size": 38524
+    },
+    {
+      "name": "2025-08-30_02.22.43UTC",
+      "date": "2025-08-30",
+      "url": "webpimages/UMKA-1/2025-08-30_02.22.43UTC.webp",
+      "size": 27392
+    },
+    {
+      "name": "2025-08-30_02.24.31UTC",
+      "date": "2025-08-30",
+      "url": "webpimages/UMKA-1/2025-08-30_02.24.31UTC.webp",
+      "size": 24250
+    },
+    {
+      "name": "2025-08-30_02.26.55UTC",
+      "date": "2025-08-30",
+      "url": "webpimages/UMKA-1/2025-08-30_02.26.55UTC.webp",
+      "size": 35340
+    },
+    {
+      "name": "2025-08-19_13.57.43UTC_RS40S",
+      "date": "2025-08-19",
+      "url": "webpimages/UMKA-1/2025-08-19_13.57.43UTC_RS40S.webp",
+      "size": 20460
+    },
+    {
+      "name": "20250811_100834",
+      "date": "2025-08-11",
+      "url": "webpimages/UMKA-1/20250811_100834.webp",
+      "size": 105050
+    },
+    {
+      "name": "20250811_101109",
+      "date": "2025-08-11",
+      "url": "webpimages/UMKA-1/20250811_101109.webp",
+      "size": 50288
+    },
+    {
+      "name": "20250811_101309",
+      "date": "2025-08-11",
+      "url": "webpimages/UMKA-1/20250811_101309.webp",
+      "size": 52112
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jul-01_02_13UTC",
+      "date": "2025-07-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_13UTC.webp",
+      "size": 31436
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jul-01_02_15UTC",
+      "date": "2025-07-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_15UTC.webp",
+      "size": 23628
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jul-01_02_17UTC",
+      "date": "2025-07-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_17UTC.webp",
+      "size": 36292
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jul-01_02_19UTC",
+      "date": "2025-07-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_02_19UTC.webp",
+      "size": 30628
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jul-01_14_22UTC",
+      "date": "2025-07-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_14_22UTC.webp",
+      "size": 24888
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jul-01_14_23UTC",
+      "date": "2025-07-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jul-01_14_23UTC.webp",
+      "size": 30870
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jun-28_13_27UTC",
+      "date": "2025-06-28",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-28_13_27UTC.webp",
+      "size": 34416
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jun-28_13_29UTC",
+      "date": "2025-06-28",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-28_13_29UTC.webp",
+      "size": 35200
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Jun-27_13_42UTC",
+      "date": "2025-06-27",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Jun-27_13_42UTC.webp",
+      "size": 30904
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-May-31_13_34UTC",
+      "date": "2025-06-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-31_13_34UTC.webp",
+      "size": 29706
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-May-09_13_44UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-09_13_44UTC.webp",
+      "size": 23912
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-May-09_13_47UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-09_13_47UTC.webp",
+      "size": 33708
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-May-10_01_22UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-10_01_22UTC.webp",
+      "size": 30872
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-May-10_01_25UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-10_01_25UTC.webp",
+      "size": 30100
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-May-07_02_05UTC",
+      "date": "2025-05-07",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-May-07_02_05UTC.webp",
+      "size": 24814
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-27_13_11UTC",
+      "date": "2025-04-27",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-27_13_11UTC.webp",
+      "size": 35486
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-27_13_14UTC",
+      "date": "2025-04-27",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-27_13_14UTC.webp",
+      "size": 28104
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-18_13_36UTC",
+      "date": "2025-04-19",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-18_13_36UTC.webp",
+      "size": 34054
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-12_02_43UTC",
       "date": "2025-04-12",
-      "url": "webpimages/OrbiCraft-Zorkiy/2025-04-12_04-37UTC.webp",
-      "size": 41136
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-12_02_43UTC.webp",
+      "size": 44718
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-12_02_46UTC",
+      "date": "2025-04-12",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-12_02_46UTC.webp",
+      "size": 21570
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-12_02_49UTC",
+      "date": "2025-04-12",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-12_02_49UTC.webp",
+      "size": 20882
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-03_13_35UTC",
+      "date": "2025-04-03",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-03_13_35UTC.webp",
+      "size": 29922
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-03_13_38UTC",
+      "date": "2025-04-03",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-03_13_38UTC.webp",
+      "size": 14000
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Apr-01_14_03_UTC",
+      "date": "2025-04-01",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Apr-01_14_03_UTC.webp",
+      "size": 19594
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Mar-22_02_27_UTC",
+      "date": "2025-03-22",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Mar-22_02_27_UTC.webp",
+      "size": 30474
+    },
+    {
+      "name": "UMKA-1_RS40S_2025-Mar-22_12_58_UTC",
+      "date": "2025-03-22",
+      "url": "webpimages/UMKA-1/UMKA-1_RS40S_2025-Mar-22_12_58_UTC.webp",
+      "size": 38570
+    },
+    {
+      "name": "UMKA_RS40S_2025-Mar-08_14_09_UTC",
+      "date": "2025-03-09",
+      "url": "webpimages/UMKA-1/UMKA_RS40S_2025-Mar-08_14_09_UTC.webp",
+      "size": 33846
+    },
+    {
+      "name": "UMKA_RS40S_2025-Mar-09_14_01_UTC",
+      "date": "2025-03-09",
+      "url": "webpimages/UMKA-1/UMKA_RS40S_2025-Mar-09_14_01_UTC.webp",
+      "size": 28426
+    },
+    {
+      "name": "UMKA_RS40S_2025-Mar-08_02_08_UTC",
+      "date": "2025-03-08",
+      "url": "webpimages/UMKA-1/UMKA_RS40S_2025-Mar-08_02_08_UTC.webp",
+      "size": 24060
+    },
+    {
+      "name": "20250228_221058",
+      "date": "2025-02-28",
+      "url": "webpimages/UMKA-1/20250228_221058.webp",
+      "size": 119266
+    },
+    {
+      "name": "20250222_214832",
+      "date": "2025-02-22",
+      "url": "webpimages/UMKA-1/20250222_214832.webp",
+      "size": 81588
+    },
+    {
+      "name": "20250222_215031",
+      "date": "2025-02-22",
+      "url": "webpimages/UMKA-1/20250222_215031.webp",
+      "size": 114160
+    }
+  ],
+  "UTMN-2": [
+    {
+      "name": "sstv_2026-08-03_22-17-21",
+      "date": "2026-08-03",
+      "url": "webpimages/UTMN-2/sstv_2026-08-03_22-17-21.webp",
+      "size": 33554
+    },
+    {
+      "name": "sstv_2026-08-03_22-19-57",
+      "date": "2026-08-03",
+      "url": "webpimages/UTMN-2/sstv_2026-08-03_22-19-57.webp",
+      "size": 28822
+    },
+    {
+      "name": "20260802_224901",
+      "date": "2026-08-02",
+      "url": "webpimages/UTMN-2/20260802_224901.webp",
+      "size": 77144
+    },
+    {
+      "name": "20260701_230408",
+      "date": "2026-07-01",
+      "url": "webpimages/UTMN-2/20260701_230408.webp",
+      "size": 71072
     }
   ],
   "VIZARD-METEO": [
-    {
-      "name": "VIZARD-METEO_RS38S_2025-Apr-11_02_09UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Apr-11_02_09UTC.webp",
-      "size": 34636
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-Apr-11_14_13UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Apr-11_14_13UTC.webp",
-      "size": 41066
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-May-09_14_11UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-09_14_11UTC.webp",
-      "size": 43280
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-May-09_14_14UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-09_14_14UTC.webp",
-      "size": 31960
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-Apr-11_02_11UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Apr-11_02_11UTC.webp",
-      "size": 31038
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-May-10_01_55UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-10_01_55UTC.webp",
-      "size": 28044
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-Mar-19_01_40_UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Mar-19_01_40_UTC.webp",
-      "size": 45280
-    },
-    {
-      "name": "VIZARD-METEO_RS38S_2025-May-10_01_53UTC",
-      "date": "2026-08-30",
-      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-10_01_53UTC.webp",
-      "size": 31136
-    },
     {
       "name": "sstv_2026-08-24_11-26-09",
       "date": "2026-08-24",
@@ -1505,16 +1575,16 @@
       "size": 25530
     },
     {
-      "name": "20260802_232831",
-      "date": "2026-08-02",
-      "url": "webpimages/VIZARD-METEO/20260802_232831.webp",
-      "size": 67234
-    },
-    {
       "name": "20260802_232559",
       "date": "2026-08-02",
       "url": "webpimages/VIZARD-METEO/20260802_232559.webp",
       "size": 75192
+    },
+    {
+      "name": "20260802_232831",
+      "date": "2026-08-02",
+      "url": "webpimages/VIZARD-METEO/20260802_232831.webp",
+      "size": 67234
     },
     {
       "name": "20260801_223050",
@@ -1541,16 +1611,16 @@
       "size": 47026
     },
     {
-      "name": "20260215_230724",
-      "date": "2026-02-15",
-      "url": "webpimages/VIZARD-METEO/20260215_230724.webp",
-      "size": 99038
-    },
-    {
       "name": "20260215_230447",
       "date": "2026-02-15",
       "url": "webpimages/VIZARD-METEO/20260215_230447.webp",
       "size": 125242
+    },
+    {
+      "name": "20260215_230724",
+      "date": "2026-02-15",
+      "url": "webpimages/VIZARD-METEO/20260215_230724.webp",
+      "size": 99038
     },
     {
       "name": "20260106_031239UTC",
@@ -1559,16 +1629,16 @@
       "size": 65118
     },
     {
-      "name": "20260105_140445UTC",
-      "date": "2026-01-05",
-      "url": "webpimages/VIZARD-METEO/20260105_140445UTC.webp",
-      "size": 61544
-    },
-    {
       "name": "20260105_140209UTC",
       "date": "2026-01-05",
       "url": "webpimages/VIZARD-METEO/20260105_140209UTC.webp",
       "size": 82360
+    },
+    {
+      "name": "20260105_140445UTC",
+      "date": "2026-01-05",
+      "url": "webpimages/VIZARD-METEO/20260105_140445UTC.webp",
+      "size": 61544
     },
     {
       "name": "20251214_143203UTC",
@@ -1577,16 +1647,16 @@
       "size": 71704
     },
     {
-      "name": "20251214_143716UTC",
-      "date": "2025-12-14",
-      "url": "webpimages/VIZARD-METEO/20251214_143716UTC.webp",
-      "size": 112590
-    },
-    {
       "name": "20251214_143446UTC",
       "date": "2025-12-14",
       "url": "webpimages/VIZARD-METEO/20251214_143446UTC.webp",
       "size": 62240
+    },
+    {
+      "name": "20251214_143716UTC",
+      "date": "2025-12-14",
+      "url": "webpimages/VIZARD-METEO/20251214_143716UTC.webp",
+      "size": 112590
     },
     {
       "name": "20251207_143225",
@@ -1625,116 +1695,58 @@
       "size": 22422
     },
     {
+      "name": "VIZARD-METEO_RS38S_2025-May-09_14_11UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-09_14_11UTC.webp",
+      "size": 43280
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-May-09_14_14UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-09_14_14UTC.webp",
+      "size": 31960
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-May-10_01_53UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-10_01_53UTC.webp",
+      "size": 31136
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-May-10_01_55UTC",
+      "date": "2025-05-10",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-May-10_01_55UTC.webp",
+      "size": 28044
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-Apr-11_14_13UTC",
+      "date": "2025-04-12",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Apr-11_14_13UTC.webp",
+      "size": 41066
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-Apr-11_02_09UTC",
+      "date": "2025-04-11",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Apr-11_02_09UTC.webp",
+      "size": 34636
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-Apr-11_02_11UTC",
+      "date": "2025-04-11",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Apr-11_02_11UTC.webp",
+      "size": 31038
+    },
+    {
+      "name": "VIZARD-METEO_RS38S_2025-Mar-19_01_40_UTC",
+      "date": "2025-03-19",
+      "url": "webpimages/VIZARD-METEO/VIZARD-METEO_RS38S_2025-Mar-19_01_40_UTC.webp",
+      "size": 45280
+    },
+    {
       "name": "20250228_211226",
       "date": "2025-02-28",
       "url": "webpimages/VIZARD-METEO/20250228_211226.webp",
       "size": 135060
-    }
-  ],
-  "Horizon": [
-    {
-      "name": "2026-02-23_01_45utc_horizon",
-      "date": "2026-02-23",
-      "url": "webpimages/Horizon/2026-02-23_01_45utc_horizon.webp",
-      "size": 3782
-    },
-    {
-      "name": "HORIZON_N0_2026-02-21_10-09-23,927773",
-      "date": "2026-02-21",
-      "url": "webpimages/Horizon/HORIZON_N0_2026-02-21_10-09-23,927773.webp",
-      "size": 1434
-    }
-  ],
-  "GALAPAGOS-UTE-SWSU": [
-    {
-      "name": "20260222_225250",
-      "date": "2026-02-22",
-      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_225250.webp",
-      "size": 26950
-    },
-    {
-      "name": "20260222_224936",
-      "date": "2026-02-22",
-      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_224936.webp",
-      "size": 14030
-    },
-    {
-      "name": "20260222_104719",
-      "date": "2026-02-22",
-      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_104719.webp",
-      "size": 25636
-    },
-    {
-      "name": "20260222_105031",
-      "date": "2026-02-22",
-      "url": "webpimages/GALAPAGOS-UTE-SWSU/20260222_105031.webp",
-      "size": 24788
-    }
-  ],
-  "239Alferov": [
-    {
-      "name": "239ALFEROV_N2_2025-08-17_07_40UTC",
-      "date": "2025-08-17",
-      "url": "webpimages/239Alferov/239ALFEROV_N2_2025-08-17_07_40UTC.webp",
-      "size": 46428
-    },
-    {
-      "name": "239ALFEROV_N0_2025-08-17_07_40UTC",
-      "date": "2025-08-17",
-      "url": "webpimages/239Alferov/239ALFEROV_N0_2025-08-17_07_40UTC.webp",
-      "size": 50488
-    }
-  ],
-  "QMR-KWT-2": [
-    {
-      "name": "20260820_230737",
-      "date": "2026-08-20",
-      "url": "webpimages/QMR-KWT-2/20260820_230737.webp",
-      "size": 141966
-    },
-    {
-      "name": "sstv_2026-08-08_23-28-29",
-      "date": "2026-08-08",
-      "url": "webpimages/QMR-KWT-2/sstv_2026-08-08_23-28-29.webp",
-      "size": 38786
-    },
-    {
-      "name": "20260307_232028",
-      "date": "2026-03-07",
-      "url": "webpimages/QMR-KWT-2/20260307_232028.webp",
-      "size": 95854
-    },
-    {
-      "name": "20260225_234001",
-      "date": "2026-02-25",
-      "url": "webpimages/QMR-KWT-2/20260225_234001.webp",
-      "size": 51574
-    }
-  ],
-  "UTMN-2": [
-    {
-      "name": "sstv_2026-08-03_22-19-57",
-      "date": "2026-08-03",
-      "url": "webpimages/UTMN-2/sstv_2026-08-03_22-19-57.webp",
-      "size": 28822
-    },
-    {
-      "name": "sstv_2026-08-03_22-17-21",
-      "date": "2026-08-03",
-      "url": "webpimages/UTMN-2/sstv_2026-08-03_22-17-21.webp",
-      "size": 33554
-    },
-    {
-      "name": "20260802_224901",
-      "date": "2026-08-02",
-      "url": "webpimages/UTMN-2/20260802_224901.webp",
-      "size": 77144
-    },
-    {
-      "name": "20260701_230408",
-      "date": "2026-07-01",
-      "url": "webpimages/UTMN-2/20260701_230408.webp",
-      "size": 71072
     }
   ]
 }
