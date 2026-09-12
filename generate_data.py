@@ -31,9 +31,9 @@ def extract_date_from_filename(filename):
 
 
 def generate_gallery_data():
-    base_dir = Path('webpimages')
+    base_dir = Path('images')
     gallery_data = {}
-    # 如果webpimages目录不存在，则创建它
+    # 如果images目录不存在，则创建它
     if not base_dir.exists():
         base_dir.mkdir(parents=True, exist_ok=True)
     # 遍历所有文件夹
@@ -41,7 +41,7 @@ def generate_gallery_data():
         if folder.is_dir() and not folder.name.startswith('.'):
             images = []
             # 支持的图片格式
-            image_extensions = {'.webp'}
+            image_extensions = {'.jpg', '.jpeg', '.png', '.bmp'}
             # 读取文件夹中的图片
             for file in folder.iterdir():
                 if file.is_file() and file.suffix.lower() in image_extensions:
@@ -54,7 +54,7 @@ def generate_gallery_data():
                     images.append({
                         'name': file.stem,  # 使用文件名（不带扩展名）
                         'date': date_str,
-                        'url': f'webpimages/{folder.name}/{file.name}',
+                        'url': f'images/{folder.name}/{file.name}',
                         'size': file.stat().st_size
                     })
             # 按日期从新到旧排序
