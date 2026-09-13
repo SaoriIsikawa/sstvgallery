@@ -6,13 +6,14 @@
 <title>卫星下行图片画廊 - BG7XTQ 接收</title>
 <meta name="description" content="业余无线电卫星 SSTV SSDV 数字图像 下行图片画廊 - BG7XTQ 接收记录">
 <meta name="color-scheme" content="dark">
-<link rel="icon" href=
-"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E📡%3C/text%3E%3C/svg%3E">
+<meta name="theme-color" content="#060a0f">
+<meta property="og:title" content="卫星下行图片画廊 - BG7XTQ 接收">
+<meta property="og:description" content="业余无线电卫星 SSTV SSDV 数字图像下行图片画廊 - BG7XTQ 接收记录">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E📡%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href=
-"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap"
-rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
 <style>
       :root {
         --bg: #060a0f;
@@ -374,13 +375,21 @@ rel="stylesheet">
 <h1>SSTV GALLERY</h1>
 <p>Received by BG7XTQ</p>
 </header>
+<noscript>
+<div class="loading">此页面需要启用 JavaScript 才能显示图片</div>
+</noscript>
 <main id="folders-container">
 <div class="loading">正在加载图片...</div>
 </main>
-<div id="image-modal" class="modal" role="dialog" aria-modal="true" aria-label="大图预览"><img id="modal-image" src=
-"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="大图预览"></div>
+<div id="image-modal" class="modal" role="dialog" aria-modal="true" aria-label="大图预览"><img id="modal-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="大图预览"></div>
 </div>
 <script>
+      function escapeHtml(str) {
+        const div = document.createElement("div");
+        div.textContent = String(str ?? "");
+        return div.innerHTML;
+      }
+
       async function loadGallery() {
         try {
           const response = await fetch("data/gallery-data.json");
@@ -408,6 +417,7 @@ rel="stylesheet">
 
           const imageCount = images.length;
           const panelId = `folder-panel-${folderIndex}`;
+          const safeFolderName = escapeHtml(folderName);
 
           folderSection.innerHTML = `
                     <div class="folder-title collapsed"
@@ -415,20 +425,22 @@ rel="stylesheet">
                          tabindex="0"
                          aria-expanded="false"
                          aria-controls="${panelId}">
-                        ${folderName} <span style="font-size: 0.85em; opacity: 0.8; margin-left: 10px;">(${imageCount})</span>
+                        ${safeFolderName} <span style="font-size: 0.85em; opacity: 0.8; margin-left: 10px;">(${imageCount})</span>
                     </div>
                     <div id="${panelId}" class="images-container collapsed">
                         ${images
-                          .map(
-                            (image) => `
-                            <div class="image-item" role="button" tabindex="0" data-url="${image.url}">
+                          .map((image) => {
+                            const safeUrl = escapeHtml(image.url);
+                            const safeName = escapeHtml(image.name);
+                            return `
+                            <div class="image-item" role="button" tabindex="0" data-url="${safeUrl}">
                                 <div class="image-wrapper">
-                                    <img src="${image.url}" alt="${image.name}" loading="lazy">
+                                    <img src="${safeUrl}" alt="${safeName}" loading="lazy">
                                 </div>
-                                <div class="image-name">${image.name}</div>
+                                <div class="image-name">${safeName}</div>
                             </div>
-                        `,
-                          )
+                        `;
+                          })
                           .join("")}
                     </div>
                 `;
