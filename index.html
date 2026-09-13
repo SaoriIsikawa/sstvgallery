@@ -1,374 +1,415 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>卫星下行图片画廊 - BG7XTQ 接收</title>
-  <meta name="description" content="业余无线电卫星 SSTV SSDV 数字图像 下行图片画廊 - BG7XTQ 接收记录">
-  <meta name="color-scheme" content="dark">
-  <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;📡&lt;/text&gt;&lt;/svg&gt;">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
-  <style>
-        :root {
-            --bg: #060a0f;
-            --panel: #10161d;
-            --panel-alt: #161e27;
-            --ink: #dce6ee;
-            --ink-dim: #7d8b99;
-            --line: rgba(95, 210, 255, 0.14);
-            --green: #39ff9e;
-            --cyan: #5fd2ff;
-            --amber: #ffb020;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>卫星下行图片画廊 - BG7XTQ 接收</title>
+<meta name="description" content="业余无线电卫星 SSTV SSDV 数字图像 下行图片画廊 - BG7XTQ 接收记录">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href=
+"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E📡%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href=
+"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap"
+rel="stylesheet">
+<style>
+      :root {
+        --bg: #060a0f;
+        --panel: #10161d;
+        --panel-alt: #161e27;
+        --ink: #dce6ee;
+        --ink-dim: #7d8b99;
+        --line: rgba(95, 210, 255, 0.14);
+        --green: #39ff9e;
+        --cyan: #5fd2ff;
+        --amber: #ffb020;
+      }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-        body {
-            font-family: 'JetBrains Mono', 'Segoe UI', monospace;
-            color: var(--ink);
-            line-height: 1.6;
-            padding: 24px;
-            min-height: 100vh;
-            background:
-                repeating-linear-gradient(0deg, rgba(95, 210, 255, 0.035) 0px, rgba(95, 210, 255, 0.035) 1px, transparent 1px, transparent 40px),
-                repeating-linear-gradient(90deg, rgba(95, 210, 255, 0.035) 0px, rgba(95, 210, 255, 0.035) 1px, transparent 1px, transparent 40px),
-                var(--bg);
-        }
+      body {
+        font-family: "JetBrains Mono", "Segoe UI", monospace;
+        color: var(--ink);
+        line-height: 1.6;
+        padding: 24px;
+        min-height: 100vh;
+        background:
+          repeating-linear-gradient(
+            0deg,
+            rgba(95, 210, 255, 0.035) 0px,
+            rgba(95, 210, 255, 0.035) 1px,
+            transparent 1px,
+            transparent 40px
+          ),
+          repeating-linear-gradient(
+            90deg,
+            rgba(95, 210, 255, 0.035) 0px,
+            rgba(95, 210, 255, 0.035) 1px,
+            transparent 1px,
+            transparent 40px
+          ),
+          var(--bg);
+      }
 
-        ::selection {
-            background: var(--green);
-            color: #04120a;
-        }
+      ::selection {
+        background: var(--green);
+        color: #04120a;
+      }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
 
-        header {
-            text-align: center;
-            margin-bottom: 32px;
-            padding: 36px 30px 28px;
-            background: var(--panel);
-            border: 1px solid var(--line);
-            border-radius: 6px;
-            position: relative;
-            overflow: hidden;
-        }
+      header {
+        text-align: center;
+        margin-bottom: 32px;
+        padding: 36px 30px 28px;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        position: relative;
+        overflow: hidden;
+      }
 
-        header::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: -40%;
-            width: 40%;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, var(--green), transparent);
-            animation: scan-sweep 3.5s linear infinite;
-        }
+      header::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: -40%;
+        width: 40%;
+        height: 2px;
+        background: linear-gradient(
+          90deg,
+          transparent,
+          var(--green),
+          transparent
+        );
+        animation: scan-sweep 3.5s linear infinite;
+      }
 
+      h1 {
+        font-family: "Space Grotesk", sans-serif;
+        font-weight: 700;
+        font-size: 2.1rem;
+        letter-spacing: 0.08em;
+        color: var(--ink);
+        margin-bottom: 12px;
+      }
+
+      h1::before {
+        content: "// ";
+        color: var(--green);
+      }
+
+      header p {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 0.85rem;
+        letter-spacing: 0.05em;
+        color: var(--ink-dim);
+        text-transform: uppercase;
+      }
+
+      header p::before {
+        content: "";
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: var(--amber);
+        box-shadow: 0 0 6px var(--amber);
+        animation: rec-pulse 1.6s ease-in-out infinite;
+      }
+
+      .folder-section {
+        margin-bottom: 20px;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        overflow: hidden;
+      }
+
+      .folder-title {
+        background: var(--panel-alt);
+        color: var(--ink);
+        padding: 15px 44px 15px 20px;
+        font-family: "Space Grotesk", sans-serif;
+        font-size: 1rem;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        cursor: pointer;
+        user-select: none;
+        transition:
+          background 0.2s ease,
+          border-left-color 0.2s ease;
+        position: relative;
+        border-left: 3px solid var(--green);
+      }
+
+      .folder-title span {
+        font-family: "JetBrains Mono", monospace;
+        font-weight: 400;
+        color: var(--green);
+      }
+
+      .folder-title:hover {
+        background: #1c2530;
+      }
+
+      .folder-title.collapsed {
+        border-left-color: var(--ink-dim);
+      }
+
+      .folder-title::after {
+        content: "▼";
+        position: absolute;
+        right: 20px;
+        color: var(--cyan);
+        font-size: 0.8em;
+        transition: transform 0.3s ease;
+      }
+
+      .folder-title.collapsed::after {
+        transform: rotate(-90deg);
+      }
+
+      .images-container {
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+        padding: 8px;
+        max-height: 5000px;
+        overflow-y: auto;
+        transition:
+          max-height 0.5s ease-out,
+          opacity 0.3s ease;
+        scrollbar-width: thin;
+        scrollbar-color: var(--line) transparent;
+      }
+
+      .images-container::-webkit-scrollbar {
+        width: 8px;
+      }
+
+      .images-container::-webkit-scrollbar-thumb {
+        background: var(--line);
+        border-radius: 4px;
+      }
+
+      .images-container.collapsed {
+        max-height: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        opacity: 0;
+        overflow: hidden;
+      }
+
+      .image-item {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        background: transparent;
+        padding: 8px 12px;
+        border-radius: 4px;
+        transition: background 0.2s ease;
+        cursor: pointer;
+      }
+
+      .image-item:hover,
+      .image-item:focus-visible {
+        background: var(--panel-alt);
+        outline: 1px solid var(--line);
+      }
+
+      .image-wrapper {
+        height: 1.4em;
+        flex-shrink: 0;
+        overflow: hidden;
+        border-radius: 3px;
+        border: 1px solid var(--line);
+      }
+
+      .image-wrapper img {
+        height: 100%;
+        width: auto;
+        object-fit: contain;
+      }
+
+      .image-item:hover .image-wrapper {
+        border-color: var(--green);
+        box-shadow: 0 0 8px rgba(57, 255, 158, 0.35);
+      }
+
+      .image-name {
+        flex: 1;
+        font-size: 0.85rem;
+        color: var(--ink-dim);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .image-item:hover .image-name {
+        color: var(--ink);
+      }
+
+      .modal {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(3, 6, 10, 0.94);
+        z-index: 9999;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .modal.active {
+        display: flex;
+      }
+
+      .modal::before,
+      .modal::after {
+        content: "";
+        position: fixed;
+        width: 26px;
+        height: 26px;
+        border: 2px solid var(--cyan);
+        opacity: 0.8;
+      }
+
+      .modal::before {
+        top: 26px;
+        left: 26px;
+        border-right: none;
+        border-bottom: none;
+      }
+
+      .modal::after {
+        bottom: 26px;
+        right: 26px;
+        border-left: none;
+        border-top: none;
+      }
+
+      .modal img {
+        max-width: 90%;
+        max-height: 90%;
+        object-fit: contain;
+        border: 1px solid var(--line);
+      }
+
+      .loading {
+        text-align: center;
+        padding: 40px;
+        color: var(--ink-dim);
+        font-size: 0.9rem;
+        letter-spacing: 0.05em;
+      }
+
+      .loading::after {
+        content: "_";
+        animation: rec-pulse 1s steps(2) infinite;
+      }
+
+      :focus-visible {
+        outline: 2px solid var(--cyan);
+        outline-offset: 2px;
+      }
+
+      @keyframes scan-sweep {
+        0% {
+          left: -40%;
+        }
+        100% {
+          left: 100%;
+        }
+      }
+
+      @keyframes rec-pulse {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.25;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          animation: none !important;
+          transition: none !important;
+        }
+      }
+
+      @media (max-width: 600px) {
         h1 {
-            font-family: 'Space Grotesk', sans-serif;
-            font-weight: 700;
-            font-size: 2.1rem;
-            letter-spacing: 0.08em;
-            color: var(--ink);
-            margin-bottom: 12px;
+          font-size: 1.5rem;
         }
-
-        h1::before {
-            content: '// ';
-            color: var(--green);
+        header {
+          padding: 26px 18px 22px;
         }
-
-        header p {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 0.85rem;
-            letter-spacing: 0.05em;
-            color: var(--ink-dim);
-            text-transform: uppercase;
-        }
-
-        header p::before {
-            content: '';
-            width: 7px;
-            height: 7px;
-            border-radius: 50%;
-            background: var(--amber);
-            box-shadow: 0 0 6px var(--amber);
-            animation: rec-pulse 1.6s ease-in-out infinite;
-        }
-
-        .folder-section {
-            margin-bottom: 20px;
-            background: var(--panel);
-            border: 1px solid var(--line);
-            border-radius: 6px;
-            overflow: hidden;
-        }
-
         .folder-title {
-            background: var(--panel-alt);
-            color: var(--ink);
-            padding: 15px 44px 15px 20px;
-            font-family: 'Space Grotesk', sans-serif;
-            font-size: 1rem;
-            font-weight: 600;
-            letter-spacing: 0.04em;
-            text-transform: uppercase;
-            cursor: pointer;
-            user-select: none;
-            transition: background 0.2s ease, border-left-color 0.2s ease;
-            position: relative;
-            border-left: 3px solid var(--green);
+          padding: 13px 40px 13px 16px;
+          font-size: 0.9rem;
         }
-
-        .folder-title span {
-            font-family: 'JetBrains Mono', monospace;
-            font-weight: 400;
-            color: var(--green);
-        }
-
-        .folder-title:hover {
-            background: #1c2530;
-        }
-
-        .folder-title.collapsed {
-            border-left-color: var(--ink-dim);
-        }
-
-        .folder-title::after {
-            content: '▼';
-            position: absolute;
-            right: 20px;
-            color: var(--cyan);
-            font-size: 0.8em;
-            transition: transform 0.3s ease;
-        }
-
-        .folder-title.collapsed::after {
-            transform: rotate(-90deg);
-        }
-
-        .images-container {
-            display: flex;
-            flex-direction: column;
-            gap: 1px;
-            padding: 8px;
-            max-height: 5000px;
-            overflow-y: auto;
-            transition: max-height 0.5s ease-out, opacity 0.3s ease;
-            scrollbar-width: thin;
-            scrollbar-color: var(--line) transparent;
-        }
-
-        .images-container::-webkit-scrollbar {
-            width: 8px;
-        }
-
-        .images-container::-webkit-scrollbar-thumb {
-            background: var(--line);
-            border-radius: 4px;
-        }
-
-        .images-container.collapsed {
-            max-height: 0;
-            padding-top: 0;
-            padding-bottom: 0;
-            opacity: 0;
-            overflow: hidden;
-        }
-
-        .image-item {
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            background: transparent;
-            padding: 8px 12px;
-            border-radius: 4px;
-            transition: background 0.2s ease;
-            cursor: pointer;
-        }
-
-        .image-item:hover,
-        .image-item:focus-visible {
-            background: var(--panel-alt);
-            outline: 1px solid var(--line);
-        }
-
-        .image-wrapper {
-            height: 1.4em;
-            flex-shrink: 0;
-            overflow: hidden;
-            border-radius: 3px;
-            border: 1px solid var(--line);
-        }
-
-        .image-wrapper img {
-            height: 100%;
-            width: auto;
-            object-fit: contain;
-        }
-
-        .image-item:hover .image-wrapper {
-            border-color: var(--green);
-            box-shadow: 0 0 8px rgba(57, 255, 158, 0.35);
-        }
-
-        .image-name {
-            flex: 1;
-            font-size: 0.85rem;
-            color: var(--ink-dim);
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-
-        .image-item:hover .image-name {
-            color: var(--ink);
-        }
-
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(3, 6, 10, 0.94);
-            z-index: 9999;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .modal.active {
-            display: flex;
-        }
-
-        .modal::before,
-        .modal::after {
-            content: '';
-            position: fixed;
-            width: 26px;
-            height: 26px;
-            border: 2px solid var(--cyan);
-            opacity: 0.8;
-        }
-
-        .modal::before {
-            top: 26px;
-            left: 26px;
-            border-right: none;
-            border-bottom: none;
-        }
-
-        .modal::after {
-            bottom: 26px;
-            right: 26px;
-            border-left: none;
-            border-top: none;
-        }
-
-        .modal img {
-            max-width: 90%;
-            max-height: 90%;
-            object-fit: contain;
-            border: 1px solid var(--line);
-        }
-
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: var(--ink-dim);
-            font-size: 0.9rem;
-            letter-spacing: 0.05em;
-        }
-
-        .loading::after {
-            content: '_';
-            animation: rec-pulse 1s steps(2) infinite;
-        }
-
-        :focus-visible {
-            outline: 2px solid var(--cyan);
-            outline-offset: 2px;
-        }
-
-        @keyframes scan-sweep {
-            0% { left: -40%; }
-            100% { left: 100%; }
-        }
-
-        @keyframes rec-pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.25; }
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-            *, *::before, *::after {
-                animation: none !important;
-                transition: none !important;
-            }
-        }
-
-        @media (max-width: 600px) {
-            h1 { font-size: 1.5rem; }
-            header { padding: 26px 18px 22px; }
-            .folder-title { padding: 13px 40px 13px 16px; font-size: 0.9rem; }
-        }
-  </style>
+      }
+</style>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <h1>SSTV GALLERY</h1>
-      <p>Received by BG7XTQ</p>
-    </header>
-    <main id="folders-container">
-      <div class="loading">
-        正在加载图片...
-      </div>
-    </main>
-    <div id="image-modal" class="modal" role="dialog" aria-modal="true" aria-label="大图预览"><img id="modal-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="大图预览"></div>
-  </div>
-  <script>
-        async function loadGallery() {
-            try {
-                const response = await fetch('data/gallery-data.json');
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status}`);
-                }
-                const data = await response.json();
-                displayGallery(data);
-            } catch (error) {
-                console.error('加载失败:', error);
-                document.getElementById('folders-container').innerHTML =
-                    '<div class="loading">加载失败，请检查数据文件</div>';
-            }
+<div class="container">
+<header>
+<h1>SSTV GALLERY</h1>
+<p>Received by BG7XTQ</p>
+</header>
+<main id="folders-container">
+<div class="loading">正在加载图片...</div>
+</main>
+<div id="image-modal" class="modal" role="dialog" aria-modal="true" aria-label="大图预览"><img id="modal-image" src=
+"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="大图预览"></div>
+</div>
+<script>
+      async function loadGallery() {
+        try {
+          const response = await fetch("data/gallery-data.json");
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+          const data = await response.json();
+          displayGallery(data);
+        } catch (error) {
+          console.error("加载失败:", error);
+          document.getElementById("folders-container").innerHTML =
+            '<div class="loading">加载失败，请检查数据文件</div>';
         }
+      }
 
-        function displayGallery(data) {
-            const container = document.getElementById('folders-container');
-            container.innerHTML = '';
+      function displayGallery(data) {
+        const container = document.getElementById("folders-container");
+        container.innerHTML = "";
 
-            let folderIndex = 0;
-            for (const [folderName, images] of Object.entries(data)) {
-                folderIndex++;
-                const folderSection = document.createElement('div');
-                folderSection.className = 'folder-section';
+        let folderIndex = 0;
+        for (const [folderName, images] of Object.entries(data)) {
+          folderIndex++;
+          const folderSection = document.createElement("div");
+          folderSection.className = "folder-section";
 
-                const imageCount = images.length;
-                const panelId = `folder-panel-${folderIndex}`;
+          const imageCount = images.length;
+          const panelId = `folder-panel-${folderIndex}`;
 
-                folderSection.innerHTML = `
+          folderSection.innerHTML = `
                     <div class="folder-title collapsed"
                          role="button"
                          tabindex="0"
@@ -377,79 +418,87 @@
                         ${folderName} <span style="font-size: 0.85em; opacity: 0.8; margin-left: 10px;">(${imageCount})</span>
                     </div>
                     <div id="${panelId}" class="images-container collapsed">
-                        ${images.map(image => `
+                        ${images
+                          .map(
+                            (image) => `
                             <div class="image-item" role="button" tabindex="0" data-url="${image.url}">
                                 <div class="image-wrapper">
                                     <img src="${image.url}" alt="${image.name}" loading="lazy">
                                 </div>
                                 <div class="image-name">${image.name}</div>
                             </div>
-                        `).join('')}
+                        `,
+                          )
+                          .join("")}
                     </div>
                 `;
 
-                container.appendChild(folderSection);
-            }
+          container.appendChild(folderSection);
         }
+      }
 
-        function toggleFolder(titleElement) {
-            const imagesContainer = titleElement.nextElementSibling;
-            const willCollapse = !titleElement.classList.contains('collapsed');
-            titleElement.classList.toggle('collapsed');
-            imagesContainer.classList.toggle('collapsed');
-            titleElement.setAttribute('aria-expanded', String(!willCollapse));
-        }
+      function toggleFolder(titleElement) {
+        const imagesContainer = titleElement.nextElementSibling;
+        const willCollapse = !titleElement.classList.contains("collapsed");
+        titleElement.classList.toggle("collapsed");
+        imagesContainer.classList.toggle("collapsed");
+        titleElement.setAttribute("aria-expanded", String(!willCollapse));
+      }
 
-        function showImage(url) {
-            const modal = document.getElementById('image-modal');
-            const modalImg = document.getElementById('modal-image');
-            modalImg.src = url;
-            modal.classList.add('active');
-        }
+      function showImage(url) {
+        const modal = document.getElementById("image-modal");
+        const modalImg = document.getElementById("modal-image");
+        modalImg.src = url;
+        modal.classList.add("active");
+      }
 
-        function closeModal() {
-            const modal = document.getElementById('image-modal');
-            modal.classList.remove('active');
-        }
+      function closeModal() {
+        const modal = document.getElementById("image-modal");
+        modal.classList.remove("active");
+      }
 
-        // 事件委托：文件夹标题展开/折叠、图片点击查看大图
-        document.getElementById('folders-container').addEventListener('click', (e) => {
-            const folderTitle = e.target.closest('.folder-title');
-            if (folderTitle) {
-                toggleFolder(folderTitle);
-                return;
-            }
-            const imageItem = e.target.closest('.image-item');
-            if (imageItem) {
-                showImage(imageItem.dataset.url);
-            }
+      // 事件委托：文件夹标题展开/折叠、图片点击查看大图
+      document
+        .getElementById("folders-container")
+        .addEventListener("click", (e) => {
+          const folderTitle = e.target.closest(".folder-title");
+          if (folderTitle) {
+            toggleFolder(folderTitle);
+            return;
+          }
+          const imageItem = e.target.closest(".image-item");
+          if (imageItem) {
+            showImage(imageItem.dataset.url);
+          }
         });
 
-        // 键盘支持：Enter / 空格触发文件夹折叠与图片查看
-        document.getElementById('folders-container').addEventListener('keydown', (e) => {
-            if (e.key !== 'Enter' && e.key !== ' ') return;
-            const target = e.target.closest('.folder-title, .image-item');
-            if (!target) return;
-            e.preventDefault();
-            target.click();
+      // 键盘支持：Enter / 空格触发文件夹折叠与图片查看
+      document
+        .getElementById("folders-container")
+        .addEventListener("keydown", (e) => {
+          if (e.key !== "Enter" && e.key !== " ") return;
+          const target = e.target.closest(".folder-title, .image-item");
+          if (!target) return;
+          e.preventDefault();
+          target.click();
         });
 
-        // 点击弹窗背景关闭
-        document.getElementById('image-modal').addEventListener('click', (e) => {
-            if (e.target.id === 'image-modal') {
-                closeModal();
-            }
-        });
+      // 点击弹窗背景关闭
+      document.getElementById("image-modal").addEventListener("click", (e) => {
+        if (e.target.id === "image-modal") {
+          closeModal();
+        }
+      });
 
-        // Esc 键关闭弹窗
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') {
-                closeModal();
-            }
-        });
+      // Esc 键关闭弹窗
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+          closeModal();
+        }
+      });
 
-        // 页面加载时获取数据
-        loadGallery();
-  </script>
+      // 页面加载时获取数据
+      loadGallery();
+</script>
 </body>
 </html>
