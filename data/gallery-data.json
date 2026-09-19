@@ -7,6 +7,12 @@
       "size": 19494
     },
     {
+      "name": "239ALFEROV_N1_2025-08-17",
+      "date": "2025-08-17",
+      "url": "images/239Alferov/239ALFEROV_N1_2025-08-17.jpg",
+      "size": 34290
+    },
+    {
       "name": "239ALFEROV_N2_2025-08-17_07_40UTC",
       "date": "2025-08-17",
       "url": "images/239Alferov/239ALFEROV_N2_2025-08-17_07_40UTC.jpg",
@@ -248,7 +254,7 @@
       "name": "GEOSCAN-4_N14_2026-09-12T07-33-22Z",
       "date": "2026-09-12",
       "url": "images/GEOSCAN-4/GEOSCAN-4_N14_2026-09-12T07-33-22Z.jpg",
-      "size": 47034
+      "size": 48276
     },
     {
       "name": "GEOSCAN-4_N2_2026-09-12T20-39-37Z",
@@ -259,9 +265,9 @@
   ],
   "Horizon": [
     {
-      "name": "2026-02-23_01_45utc_horizon",
+      "name": "HORIZON_2026-02-23_01-45UTC",
       "date": "2026-02-23",
-      "url": "images/Horizon/2026-02-23_01_45utc_horizon.jpg",
+      "url": "images/Horizon/HORIZON_2026-02-23_01-45UTC.jpg",
       "size": 8856
     },
     {
