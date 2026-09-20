@@ -243,6 +243,20 @@
       "size": 193405
     }
   ],
+  "GEOSCAN-2": [
+    {
+      "name": "GEOSCAN-2_N14_2026-09-20T19-59-26Z",
+      "date": "2026-09-20",
+      "url": "images/GEOSCAN-2/GEOSCAN-2_N14_2026-09-20T19-59-26Z.jpg",
+      "size": 48276
+    },
+    {
+      "name": "GEOSCAN-2_N3_2026-09-20T20-02-31Z",
+      "date": "2026-09-20",
+      "url": "images/GEOSCAN-2/GEOSCAN-2_N3_2026-09-20T20-02-31Z.jpg",
+      "size": 31968
+    }
+  ],
   "GEOSCAN-4": [
     {
       "name": "GEOSCAN-4_N3_2026-09-15T20-33-21Z",
