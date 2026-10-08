@@ -197,15 +197,27 @@
   ],
   "ASRTU-1": [
     {
-      "name": "2025-12-18_00-48UTC",
+      "name": "102_VQL6GB_0_480_288_4_0",
+      "date": "2026-10-08",
+      "url": "images/ASRTU-1/102_VQL6GB_0_480_288_4_0.jpg",
+      "size": 20121
+    },
+    {
+      "name": "102_VQL6GB_0_480_352_4_0",
+      "date": "2026-10-08",
+      "url": "images/ASRTU-1/102_VQL6GB_0_480_352_4_0.jpg",
+      "size": 14189
+    },
+    {
+      "name": "2025-12-18_00-48UTC_ASRTU-1",
       "date": "2025-12-18",
-      "url": "images/ASRTU-1/2025-12-18_00-48UTC.jpg",
+      "url": "images/ASRTU-1/2025-12-18_00-48UTC_ASRTU-1.jpg",
       "size": 18098
     },
     {
-      "name": "2025-11-02_13-58UTC",
+      "name": "2025-11-02_13-58UTC_ASRTU-1",
       "date": "2025-11-02",
-      "url": "images/ASRTU-1/2025-11-02_13-58UTC.jpg",
+      "url": "images/ASRTU-1/2025-11-02_13-58UTC_ASRTU-1.jpg",
       "size": 12656
     }
   ],
