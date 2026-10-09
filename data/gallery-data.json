@@ -197,6 +197,12 @@
   ],
   "ASRTU-1": [
     {
+      "name": "102_VQL6GB_0_352_480_4_0",
+      "date": "2026-10-09",
+      "url": "images/ASRTU-1/102_VQL6GB_0_352_480_4_0.jpg",
+      "size": 21680
+    },
+    {
       "name": "102_VQL6GB_0_480_288_4_0",
       "date": "2026-10-08",
       "url": "images/ASRTU-1/102_VQL6GB_0_480_288_4_0.jpg",
@@ -219,6 +225,14 @@
       "date": "2025-11-02",
       "url": "images/ASRTU-1/2025-11-02_13-58UTC_ASRTU-1.jpg",
       "size": 12656
+    }
+  ],
+  "BY-04": [
+    {
+      "name": "SSDV_20261009_113412_754_Pass1_ID52",
+      "date": "2026-10-09",
+      "url": "images/BY-04/SSDV_20261009_113412_754_Pass1_ID52.jpg",
+      "size": 17656
     }
   ],
   "Colibri-S": [
