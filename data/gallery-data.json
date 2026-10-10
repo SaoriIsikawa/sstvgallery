@@ -233,6 +233,18 @@
       "date": "2026-10-09",
       "url": "images/BY-04/SSDV_20261009_113412_754_Pass1_ID52.jpg",
       "size": 17656
+    },
+    {
+      "name": "SSDV_20261009_233830_931_Pass1_ID57",
+      "date": "2026-10-09",
+      "url": "images/BY-04/SSDV_20261009_233830_931_Pass1_ID57.jpg",
+      "size": 12707
+    },
+    {
+      "name": "SSDV_20261009_234123_800_Pass2_ID58",
+      "date": "2026-10-09",
+      "url": "images/BY-04/SSDV_20261009_234123_800_Pass2_ID58.jpg",
+      "size": 10542
     }
   ],
   "Colibri-S": [
@@ -593,6 +605,14 @@
       "date": "2026-08-30",
       "url": "images/JAMX01/2026-08-30_02-48UTC_102_VQL6GB_0_640_480_4_0.jpg",
       "size": 12425
+    }
+  ],
+  "LUCA-1": [
+    {
+      "name": "2026-10-10_03-23UTC_LUCA-1",
+      "date": "2026-10-10",
+      "url": "images/LUCA-1/2026-10-10_03-23UTC_LUCA-1.bmp",
+      "size": 245814
     }
   ],
   "Monitor-3": [
