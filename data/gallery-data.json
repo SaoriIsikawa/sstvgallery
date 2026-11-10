@@ -227,6 +227,36 @@
       "size": 12656
     }
   ],
+  "BG7RUF": [
+    {
+      "name": "20260426_225400",
+      "date": "2026-04-26",
+      "url": "images/BG7RUF/20260426_225400.png",
+      "size": 238335
+    },
+    {
+      "name": "20260426_225819",
+      "date": "2026-04-26",
+      "url": "images/BG7RUF/20260426_225819.png",
+      "size": 957100
+    }
+  ],
+  "BG7RUG": [
+    {
+      "name": "20251018_220119",
+      "date": "2025-10-18",
+      "url": "images/BG7RUG/20251018_220119.png",
+      "size": 260650
+    }
+  ],
+  "BG7RZU": [
+    {
+      "name": "20260309_222537",
+      "date": "2026-03-09",
+      "url": "images/BG7RZU/20260309_222537.png",
+      "size": 208439
+    }
+  ],
   "BY-04": [
     {
       "name": "SSDV_20261009_113412_754_Pass1_ID52",
@@ -810,6 +840,30 @@
     }
   ],
   "SAKHACUBE-CHOLBON": [
+    {
+      "name": "sstv_2026-10-31_22-56-54",
+      "date": "2026-10-31",
+      "url": "images/SAKHACUBE-CHOLBON/sstv_2026-10-31_22-56-54.png",
+      "size": 191384
+    },
+    {
+      "name": "sstv_2026-10-31_23-00-11",
+      "date": "2026-10-31",
+      "url": "images/SAKHACUBE-CHOLBON/sstv_2026-10-31_23-00-11.png",
+      "size": 192552
+    },
+    {
+      "name": "sstv_2026-10-30_11-20-49",
+      "date": "2026-10-30",
+      "url": "images/SAKHACUBE-CHOLBON/sstv_2026-10-30_11-20-49.png",
+      "size": 171900
+    },
+    {
+      "name": "sstv_2026-10-30_11-22-51",
+      "date": "2026-10-30",
+      "url": "images/SAKHACUBE-CHOLBON/sstv_2026-10-30_11-22-51.png",
+      "size": 172348
+    },
     {
       "name": "sstv_2026-10-29_23-43-56",
       "date": "2026-10-29",
